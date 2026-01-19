@@ -1,2 +1,2 @@
-# daily-arxiv-ai4cheme
-🎓Automatically Update AI4Chemical-Engineering Papers Daily using Github Actions
+# daily-arxiv-ai4bio
+🎓Automatically Update AI4Bio Papers Daily using Github Actions
