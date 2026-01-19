@@ -1,6 +1,6 @@
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
 user_name: "YuzeHao2023"
-repo_name: "daily-arxiv-ai4polymer"
+repo_name: "daily-arxiv-ai4cheme"
 show_authors: True
 show_links: True
 show_badge: True
@@ -11,9 +11,9 @@ publish_gitpage: True
 publish_wechat: False
 
 # file paths
-json_readme_path: './docs/ai4polymer-arxiv-daily.json'
-json_gitpage_path: './docs/ai4polymer-arxiv-daily-web.json'
-json_wechat_path: './docs/ai4polymer-arxiv-daily-wechat.json'
+json_readme_path: './docs/ai4cheme-arxiv-daily.json'
+json_gitpage_path: './docs/ai4cheme-arxiv-daily-web.json'
+json_wechat_path: './docs/ai4cheme-arxiv-daily-wechat.json'
 
 md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
@@ -21,29 +21,86 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "Representation & Foundation Models":
-        filters: ["Polymer Language Models", "PolymerLLM", "SMILES for Polymers", "BigSMILES", "SELFIES", "Graph Neural Networks for Polymers", "Polymer Embedding", "Polymer Fingerprints", "Macromolecular Representation", "Self-Supervised Learning", "Cross-Modal Learning"]
+    "Process Modeling & System Identification":
+        filters: ["Process Modeling",
+                  "System Identification",
+                  "Data-Driven Modeling",
+                  "Surrogate Modeling",
+                  "Reduced-Order Modeling",
+                  "Nonlinear Process Models",
+                  "Hybrid Modeling"]
 
-    "Property Prediction & QSPR":
-        filters: ["Structure-Property Relationship", "QSPR for Polymers", "Glass Transition Temperature", "Tg Prediction", "Thermal Conductivity", "Dielectric Properties", "Elastic Modulus", "Viscoelasticity", "Band Gap Prediction", "Solubility Parameter", "Flory-Huggins Parameter"]
+    "Process Control & Optimization":
+        filters: ["Process Control",
+                  "Model Predictive Control",
+                  "MPC",
+                  "Optimal Control",
+                  "Reinforcement Learning for Control",
+                  "Adaptive Control",
+                  "Real-Time Optimization"]
 
-    "Generative Design & Inverse Design":
-        filters: ["Inverse Design", "De Novo Polymer Design", "Generative Models for Polymers", "Polymer Generation", "Diffusion Models", "Variational Autoencoder", "VAE", "Generative Adversarial Networks", "GAN", "Bayesian Optimization", "Active Learning"]
+    "Reaction Engineering & Kinetics":
+        filters: ["Chemical Reaction Engineering",
+                  "Reaction Kinetics",
+                  "Reaction Network Modeling",
+                  "Microkinetic Modeling",
+                  "Catalytic Reactions",
+                  "Reaction Rate Prediction",
+                  "Mechanism Learning"]
 
-    "Molecular Dynamics & Multiscale Modeling":
-        filters: ["Machine Learning Force Fields", "MLFF", "Neural Network Potentials", "Coarse-grained Simulation", "CGMD", "Multiscale Modeling", "Enhanced Sampling", "Statistical Mechanics", "Monte Carlo Simulation", "Soft Matter Physics", "Molecular Dynamics Acceleration"]
+    "Separation Processes & Transport Phenomena":
+        filters: ["Separation Processes",
+                  "Distillation",
+                  "Adsorption",
+                  "Membrane Separation",
+                  "Mass Transfer",
+                  "Heat Transfer",
+                  "Transport Phenomena"]
 
-    "Microstructure, Morphology & Characterization":
-        filters: ["Polymer Morphology", "Phase Separation", "Block Copolymer Self-assembly", "Crystallinity Prediction", "Microstructure Characterization", "Image Segmentation for Polymers", "SAXS Analysis", "TEM Image Analysis", "Spectroscopy Analysis", "GPC Data Interpretation"]
+    "Catalysis & Materials for Chemical Engineering":
+        filters: ["Catalysis",
+                  "Heterogeneous Catalysis",
+                  "Electrocatalysis",
+                  "Photocatalysis",
+                  "Catalyst Design",
+                  "Materials Discovery",
+                  "Structure-Property Relationships"]
 
-    "Synthesis, Kinetics & Automation":
-        filters: ["Polymerization Reaction Prediction", "Reaction Yield", "Polymerization Kinetics Modeling", "Catalyst Design", "Retrosynthesis", "Controlled Radical Polymerization", "Ring-Opening Polymerization", "Automated Synthesis", "Reaction Condition Screening"]
+    "Computational Fluid Dynamics & Multiphase Flow":
+        filters: ["Computational Fluid Dynamics",
+                  "CFD",
+                  "Multiphase Flow",
+                  "Turbulence Modeling",
+                  "Flow Simulation",
+                  "Data-Driven CFD"]
 
-    "Processing, Manufacturing & Composites":
-        filters: ["Process-Structure-Property Relationship", "Rheology Modeling", "Extrusion Simulation", "Injection Molding AI", "Additive Manufacturing", "3D Printing Polymers", "Polymer Matrix Composites", "Filler Dispersion Prediction", "Nanocomposites"]
+    "Digital Twins & Process Monitoring":
+        filters: ["Digital Twin",
+                  "Process Monitoring",
+                  "Fault Detection",
+                  "Anomaly Detection",
+                  "Soft Sensors",
+                  "Condition Monitoring"]
 
-    "Sustainability & Functional Applications":
-        filters: ["Sustainable Polymers", "Biodegradable Polymers", "Plastic Recycling", "Upcycling Technology", "Polymer Degradation", "Life Cycle Assessment", "Polymer Electrolytes", "Organic Photovoltaics", "Hydrogels", "Membrane Separation"]
+    "Uncertainty Quantification & Bayesian Methods":
+        filters: ["Uncertainty Quantification",
+                  "Bayesian Inference",
+                  "Probabilistic Modeling",
+                  "Data Assimilation",
+                  "Active Learning",
+                  "Experimental Design"]
 
-    "Informatics & Data Infrastructure":
-        filters: ["Polymer Informatics", "Polymer Database", "Polymer Genome", "High-throughput Screening", "HTS", "Curated Polymer Dataset", "Benchmarking", "PoSIT"]
+    "Energy, Sustainability & Electrochemical Systems":
+        filters: ["Energy Systems",
+                  "Electrochemical Systems",
+                  "Battery Modeling",
+                  "Fuel Cells",
+                  "Carbon Capture",
+                  "Sustainable Chemical Processes"]
+
+    "AI for Chemical Engineering (General)":
+        filters: ["AI for Chemical Engineering",
+                  "Machine Learning for Chemical Engineering",
+                  "Process Systems Engineering",
+                  "Computational Chemical Engineering",
+                  "Data-Driven Chemical Engineering"]
