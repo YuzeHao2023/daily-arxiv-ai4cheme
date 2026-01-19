@@ -1,6 +1,6 @@
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
 user_name: "YuzeHao2023"
-repo_name: "daily-arxiv-ai4bio"
+repo_name: "daily-arxiv-ai4cheme"
 show_authors: True
 show_links: True
 show_badge: True
@@ -11,9 +11,9 @@ publish_gitpage: True
 publish_wechat: False
 
 # file paths
-json_readme_path: './docs/ai4bio-arxiv-daily.json'
-json_gitpage_path: './docs/ai4bio-arxiv-daily-web.json'
-json_wechat_path: './docs/ai4bio-arxiv-daily-wechat.json'
+json_readme_path: './docs/ai4cheme-arxiv-daily.json'
+json_gitpage_path: './docs/ai4cheme-arxiv-daily-web.json'
+json_wechat_path: './docs/ai4cheme-arxiv-daily-wechat.json'
 
 md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
@@ -21,26 +21,143 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "Protein Structure & Engineering":
-        filters: ["Protein Structure Prediction", "Protein Design", "AlphaFold", "RoseTTAFold", "Protein Folding", "Inverse Folding", "Protein Language Model", "pLM", "ESM", "Site-specific Mutagenesis", "Protein Function Prediction"]
+    "Process Modeling & System Identification":
+        filters: ["Process Modeling",
+                  "System Identification",
+                  "Data-Driven Modeling",
+                  "Surrogate Modeling",
+                  "Reduced-Order Modeling",
+                  "Hybrid Modeling",
+                  "Nonlinear Process Models",
+                  "Dynamic Process Modeling"]
 
-    "Antibody, Antigen & Vaccine":
-        filters: ["Antibody Design", "Antigen-Antibody Interaction", "Epitope Prediction", "Vaccine Design", "Therapeutic Antibodies", "CDR Generation", "Humanness Scoring", "Immunogenicity"]
+    "Process Control & Optimization (PSE)":
+        filters: ["Process Control",
+                  "Model Predictive Control",
+                  "MPC",
+                  "Optimal Control",
+                  "Reinforcement Learning for Chemical Processes",
+                  "Real-Time Optimization",
+                  "Soft Sensors",
+                  "Fault Detection and Diagnosis",
+                  "Supply Chain Optimization",
+                  "Scheduling"]
 
-    "Genomics & Regulatory Sequence":
-        filters: ["Genomics", "DNA Sequence Modeling", "RNA Modeling", "Genomic Language Models", "Variant Effect Prediction", "CRISPR Guide Design", "Epigenomics", "Splice Site Prediction", "Non-coding RNA", "Motif Discovery"]
+    "Reaction Engineering & Catalysis":
+        filters: ["Chemical Reaction Engineering",
+                  "Reaction Kinetics",
+                  "Microkinetic Modeling",
+                  "Reaction Network Modeling",
+                  "Reaction Yield Prediction",
+                  "Reaction Mechanism Learning",
+                  "Catalyst Design",
+                  "Catalytic Activity Prediction",
+                  "Heterogeneous Catalysis",
+                  "Homogeneous Catalysis",
+                  "Electrocatalysis",
+                  "Photocatalysis"]
 
-    "Single-cell & Spatial Multi-omics":
-        filters: ["Single-cell RNA-seq", "scRNA-seq", "Spatial Transcriptomics", "Spatial Omics", "Multi-omics Integration", "Cell Type Annotation", "Trajectory Inference", "Cellular Heterogeneity", "Batch Effect Correction"]
+    "Separation Processes & Membrane Engineering":
+        filters: ["Separation Processes",
+                  "Distillation Optimization",
+                  "Adsorption Process Modeling",
+                  "Membrane Separation",
+                  "Membrane Performance Prediction",
+                  "Chromatography Optimization",
+                  "Crystallization Control",
+                  "Multi-Component Separation",
+                  "Desalination"]
 
-    "Drug Discovery & Interaction":
-        filters: ["Drug-Target Interaction", "DTI", "Compound-Protein Interaction", "CPI", "Protein-Protein Interaction", "PPI", "Molecular Docking", "Binding Affinity Prediction", "Virtual Screening", "De Novo Drug Design", "ADMET", "Lead Optimization"]
+    "Thermodynamics & Transport Phenomena":
+        filters: ["Phase Equilibrium",
+                  "Vapor-Liquid Equilibrium",
+                  "VLE",
+                  "Equation of State",
+                  "Heat Transfer",
+                  "Mass Transfer",
+                  "Diffusivity",
+                  "Viscosity Prediction",
+                  "Thermal Conductivity",
+                  "Transport Phenomena"]
 
-    "Biological Generative & Foundation Models":
-        filters: ["Biological Foundation Models", "Generative Biology", "Diffusion Models for Proteins", "Flow Matching", "Biological Sequence Generation", "Biological Representation Learning", "Cross-Modal Learning", "Text-to-Biology", "Self-Supervised Learning"]
+    "Fluid Mechanics & CFD":
+        filters: ["Computational Fluid Dynamics",
+                  "CFD",
+                  "Multiphase Flow",
+                  "Turbulence Modeling",
+                  "Mixing Processes",
+                  "Microfluidics",
+                  "Granular Flow",
+                  "Physics-Informed Neural Networks",
+                  "PINNs for Fluid"]
 
-    "Systems Biology & Knowledge Graphs":
-        filters: ["Gene Regulatory Networks", "GRN", "Biological Networks", "Systems Biology", "Graph Neural Networks for Biology", "Biomedical Knowledge Graphs", "BioNLP", "Biomedical Text Mining", "Pathway Analysis", "Ontology"]
+    "Digital Twins & Process Monitoring":
+        filters: ["Digital Twin",
+                  "Process Monitoring",
+                  "Condition Monitoring",
+                  "Anomaly Detection",
+                  "Fault Diagnosis",
+                  "Soft Sensing",
+                  "Process Data Analytics"]
 
-    "Medical Imaging & Evolution":
-        filters: ["Medical Imaging", "Microscopy", "Image Segmentation", "Histopathology", "Phylogenetics", "Evolutionary Dynamics", "Ancestral Sequence Reconstruction", "Coevolutionary Analysis", "Epidemiology"]
+    "Materials & Polymer Engineering":
+        filters: ["Materials Discovery",
+                  "Structure-Property Relationships",
+                  "Polymer Property Prediction",
+                  "Polymer Informatics",
+                  "Composite Materials Design",
+                  "Polymer Processing Optimization",
+                  "Membrane Materials",
+                  "Porous Materials",
+                  "MOFs",
+                  "Zeolites"]
+
+    "Molecular Discovery & Property Prediction":
+        filters: ["Molecular Property Prediction",
+                  "QSPR",
+                  "Graph Neural Networks for Chemistry",
+                  "SMILES Transformer",
+                  "Molecular Fingerprints",
+                  "Solubility Prediction",
+                  "Toxicity Prediction",
+                  "Excited State Prediction"]
+
+    "Energy, Electrochemical & Sustainable Systems":
+        filters: ["Energy Systems",
+                  "Electrochemical Systems",
+                  "Battery Modeling",
+                  "Fuel Cells",
+                  "Carbon Capture",
+                  "CO2 Utilization",
+                  "Hydrogen Storage",
+                  "Biofuel Production",
+                  "Water Treatment",
+                  "Circular Economy"]
+
+    "Sustainable & Green Chemical Engineering":
+        filters: ["Green Chemistry",
+                  "Sustainable Chemical Processes",
+                  "Life Cycle Assessment",
+                  "LCA",
+                  "Wastewater Treatment Optimization",
+                  "Energy Efficiency",
+                  "Renewable Chemical Processes",
+                  "Bio-Based Chemicals"]
+
+    "Generative & Foundation Models for ChE":
+        filters: ["Chemical Foundation Models",
+                  "Chemical Language Models",
+                  "Generative Models for Chemistry",
+                  "Diffusion Models for Molecules",
+                  "Flow-Based Models",
+                  "De Novo Molecular Design",
+                  "Reaction Generation",
+                  "Cross-Modal Learning (Molecule-Process-Property)",
+                  "Self-Driving Labs"]
+
+    "AI for Chemical Engineering (General)":
+        filters: ["AI for Chemical Engineering",
+                  "Machine Learning for Chemical Engineering",
+                  "Process Systems Engineering",
+                  "Computational Chemical Engineering",
+                  "Data-Driven Chemical Engineering"]
