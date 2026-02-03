@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.02.02
+## Updated on 2026.02.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Process Modeling & System Identification
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Evolution of Coronal Mass Ejections in Different Data-Driven Solar Wind Conditions**|Nishtha Sachdeva et.al.|[2602.02300](http://arxiv.org/abs/2602.02300)|null|
+|**2026-02-02**|**SurvKAN: A Fully Parametric Survival Model Based on Kolmogorov-Arnold Networks**|Marina Mastroleo et.al.|[2602.02179](http://arxiv.org/abs/2602.02179)|null|
+|**2026-02-02**|**A Unified Control Architecture for Macro-Micro Manipulation using a Active Remote Center of Compliance for Manufacturing Applications**|Patrick Frank et.al.|[2602.01948](http://arxiv.org/abs/2602.01948)|null|
+|**2026-02-02**|**Probabilistic function-on-function nonlinear autoregressive model for emulation and reliability analysis of dynamical systems**|Zhouzhou Song et.al.|[2602.01929](http://arxiv.org/abs/2602.01929)|null|
+|**2026-02-02**|**Bayesian Parameter Estimation for Predictive Modeling of Illumination-Dependent Current-Voltage Curves**|Eunchi Kim et.al.|[2602.01859](http://arxiv.org/abs/2602.01859)|null|
+|**2026-02-02**|**Adaptive Rollout Allocation for Online Reinforcement Learning with Verifiable Rewards**|Hieu Trung Nguyen et.al.|[2602.01601](http://arxiv.org/abs/2602.01601)|null|
+|**2026-02-02**|**SGHA-Attack: Semantic-Guided Hierarchical Alignment for Transferable Targeted Attacks on Vision-Language Models**|Haobo Wang et.al.|[2602.01574](http://arxiv.org/abs/2602.01574)|null|
+|**2026-02-02**|**Geometric Generalization of Neural Operators from Kernel Integral Perspective**|Mingyu Han et.al.|[2602.01498](http://arxiv.org/abs/2602.01498)|null|
+|**2026-02-02**|**OpInf-LLM: Parametric PDE Solving with LLMs via Operator Inference**|Zhuoyuan Wang et.al.|[2602.01493](http://arxiv.org/abs/2602.01493)|null|
+|**2026-02-01**|**WAKESET: A Large-Scale, High-Reynolds Number Flow Dataset for Machine Learning of Turbulent Wake Dynamics**|Zachary Cooper-Baldock et.al.|[2602.01379](http://arxiv.org/abs/2602.01379)|null|
 |**2026-01-29**|**Hybrid Linear Attention Done Right: Efficient Distillation and Effective Architectures for Extremely Long Contexts**|Yingfa Chen et.al.|[2601.22156](http://arxiv.org/abs/2601.22156)|null|
 |**2026-01-29**|**Learning Transient Convective Heat Transfer with Geometry Aware World Models**|Onur T. Doganay et.al.|[2601.22086](http://arxiv.org/abs/2601.22086)|null|
 |**2026-01-29**|**Uncertainty-Aware Data-Based Method for Fast and Reliable Shape Optimization**|Yunjia Yang et.al.|[2601.21956](http://arxiv.org/abs/2601.21956)|null|
@@ -138,6 +148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Toxicity Assessment in Preclinical Histopathology via Class-Aware Mahalanobis Distance for Known and Novel Anomalies**|Olga Graf et.al.|[2602.02124](http://arxiv.org/abs/2602.02124)|null|
+|**2026-02-02**|**Active learning from positive and unlabeled examples**|Farnam Mansouri et.al.|[2602.02081](http://arxiv.org/abs/2602.02081)|null|
+|**2026-02-02**|**Twinning Complex Networked Systems: Data-Driven Calibration of the mABCD Synthetic Graph Generator**|Piotr Bródka et.al.|[2602.02044](http://arxiv.org/abs/2602.02044)|null|
+|**2026-02-02**|**Spot-Wise Smart Parking: An Edge-Enabled Architecture with YOLOv11 and Digital Twin Integration**|Gustavo P. C. P. da Luz et.al.|[2602.01754](http://arxiv.org/abs/2602.01754)|null|
+|**2026-02-02**|**COMET: Codebook-based Online-adaptive Multi-scale Embedding for Time-series Anomaly Detection**|Jinwoo Park et.al.|[2602.01635](http://arxiv.org/abs/2602.01635)|null|
+|**2026-02-02**|**RAPT: Model-Predictive Out-of-Distribution Detection and Failure Diagnosis for Sim-to-Real Humanoid Robots**|Humphrey Munn et.al.|[2602.01515](http://arxiv.org/abs/2602.01515)|null|
+|**2026-02-01**|**Modeling Topological Impact on Node Attribute Distributions in Attributed Graphs**|Amirreza Shiralinasab Langari et.al.|[2602.01454](http://arxiv.org/abs/2602.01454)|null|
+|**2026-02-01**|**PaAno: Patch-Based Representation Learning for Time-Series Anomaly Detection**|Jinju Park et.al.|[2602.01359](http://arxiv.org/abs/2602.01359)|null|
+|**2026-02-01**|**LightCity: An Urban Dataset for Outdoor Inverse Rendering and Reconstruction under Multi-illumination Conditions**|Jingjing Wang et.al.|[2602.01118](http://arxiv.org/abs/2602.01118)|null|
+|**2026-02-01**|**Single-Edge Node Injection Threats to GNN-Based Security Monitoring in Industrial Graph Systems**|Wenjie Liang et.al.|[2602.01113](http://arxiv.org/abs/2602.01113)|null|
 |**2026-01-29**|**From Particles to Agents: Hallucination as a Metric for Cognitive Friction in Spatial Simulation**|Javier Argota Sánchez-Vaquerizo et.al.|[2601.21977](http://arxiv.org/abs/2601.21977)|null|
 |**2026-01-29**|**A Unified XAI-LLM Approach for EndotrachealSuctioning Activity Recognition**|Hoang Khang Phan et.al.|[2601.21802](http://arxiv.org/abs/2601.21802)|null|
 |**2026-01-29**|**Physics-Guided Tiny-Mamba Transformer for Reliability-Aware Early Fault Warning**|Changyu Li et.al.|[2601.21293](http://arxiv.org/abs/2601.21293)|null|
@@ -281,6 +301,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Reconstructing the largest scales of the Universe with field-level inference applied to the Quaia Quasar Catalogue**|Adam Andrews et.al.|[2602.02363](http://arxiv.org/abs/2602.02363)|null|
+|**2026-02-02**|**Well-Posed KL-Regularized Control via Wasserstein and Kalman-Wasserstein KL Divergences**|Viktor Stein et.al.|[2602.02250](http://arxiv.org/abs/2602.02250)|null|
+|**2026-02-02**|**ECHO: Entropy-Confidence Hybrid Optimization for Test-Time Reinforcement Learning**|Chu Zhao et.al.|[2602.02150](http://arxiv.org/abs/2602.02150)|null|
+|**2026-02-02**|**Clustering of emission line galaxies with IllustrisTNG -- II. cosmology challenge with anisotropic correlation functions and ELG-halo connections**|Ken Osato et.al.|[2602.01925](http://arxiv.org/abs/2602.01925)|null|
+|**2026-02-02**|**Trust but Verify: Adaptive Conditioning for Reference-Based Diffusion Super-Resolution via Implicit Reference Correlation Modeling**|Yuan Wang et.al.|[2602.01864](http://arxiv.org/abs/2602.01864)|null|
+|**2026-02-02**|**When Feasibility of Fairness Audits Relies on Willingness to Share Data: Examining User Acceptance of Multi-Party Computation Protocols for Fairness Monitoring**|Changyang He et.al.|[2602.01846](http://arxiv.org/abs/2602.01846)|null|
+|**2026-02-02**|**Multi-party Computation Protocols for Post-Market Fairness Monitoring in Algorithmic Hiring: From Legal Requirements to Computational Designs**|Changyang He et.al.|[2602.01837](http://arxiv.org/abs/2602.01837)|null|
+|**2026-02-02**|**In-Pipeline Integration of Digital In-Memory-Computing into RISC-V Vector Architecture to Accelerate Deep Learning**|Tommaso Spagnolo et.al.|[2602.01827](http://arxiv.org/abs/2602.01827)|null|
+|**2026-02-02**|**DDP-WM: Disentangled Dynamics Prediction for Efficient World Models**|Shicheng Yin et.al.|[2602.01780](http://arxiv.org/abs/2602.01780)|null|
+|**2026-02-02**|**Tilt-Ropter: A Novel Hybrid Aerial and Terrestrial Vehicle with Tilt Rotors and Passive Wheels**|Ruoyu Wang et.al.|[2602.01700](http://arxiv.org/abs/2602.01700)|null|
 |**2026-01-29**|**SIA: Symbolic Interpretability for Anticipatory Deep Reinforcement Learning in Network Control**|MohammadErfan Jabbari et.al.|[2601.22044](http://arxiv.org/abs/2601.22044)|null|
 |**2026-01-29**|**LLM-Driven Scenario-Aware Planning for Autonomous Driving**|He Li et.al.|[2601.21876](http://arxiv.org/abs/2601.21876)|null|
 |**2026-01-29**|**TeV Gamma-Rays from the Low-Luminosity Active Galactic Nucleus NGC 4278: Implications for the Diffuse Neutrino Background**|Chengchao Yuan et.al.|[2601.21411](http://arxiv.org/abs/2601.21411)|null|
@@ -347,6 +377,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Expanding the Capabilities of Reinforcement Learning via Text Feedback**|Yuda Song et.al.|[2602.02482](http://arxiv.org/abs/2602.02482)|null|
+|**2026-02-02**|**Renewal theory for a run-and-tumble particle with stochastic resetting and a sticky boundary**|Paul C Bressloff et.al.|[2602.02446](http://arxiv.org/abs/2602.02446)|null|
+|**2026-02-02**|**RANKVIDEO: Reasoning Reranking for Text-to-Video Retrieval**|Tyler Skow et.al.|[2602.02444](http://arxiv.org/abs/2602.02444)|null|
+|**2026-02-02**|**Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory**|Ruiqi Wu et.al.|[2602.02393](http://arxiv.org/abs/2602.02393)|null|
+|**2026-02-02**|**Self-Supervised Learning from Structural Invariance**|Yipeng Zhang et.al.|[2602.02381](http://arxiv.org/abs/2602.02381)|null|
+|**2026-02-02**|**Unified Personalized Reward Model for Vision Generation**|Yibin Wang et.al.|[2602.02380](http://arxiv.org/abs/2602.02380)|null|
+|**2026-02-02**|**ReasonCACHE: Teaching LLMs To Reason Without Weight Updates**|Sharut Gupta et.al.|[2602.02366](http://arxiv.org/abs/2602.02366)|null|
+|**2026-02-02**|**Enhancing Indoor Occupancy Prediction via Sparse Query-Based Multi-Level Consistent Knowledge Distillation**|Xiang Li et.al.|[2602.02318](http://arxiv.org/abs/2602.02318)|null|
+|**2026-02-02**|**Learning While Staying Curious: Entropy-Preserving Supervised Fine-Tuning via Adaptive Self-Distillation for Large Reasoning Models**|Hao Wang et.al.|[2602.02244](http://arxiv.org/abs/2602.02244)|null|
+|**2026-02-02**|**Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation**|Hongzhou Zhu et.al.|[2602.02214](http://arxiv.org/abs/2602.02214)|null|
 |**2026-01-29**|**Hybrid Linear Attention Done Right: Efficient Distillation and Effective Architectures for Extremely Long Contexts**|Yingfa Chen et.al.|[2601.22156](http://arxiv.org/abs/2601.22156)|null|
 |**2026-01-29**|**Learning Transient Convective Heat Transfer with Geometry Aware World Models**|Onur T. Doganay et.al.|[2601.22086](http://arxiv.org/abs/2601.22086)|null|
 |**2026-01-29**|**MetricAnything: Scaling Metric Depth Pretraining with Noisy Heterogeneous Sources**|Baorui Ma et.al.|[2601.22054](http://arxiv.org/abs/2601.22054)|null|
@@ -392,6 +432,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Symmetry-restricted energy landscapes as a benchmark for machine learned interatomic potentials**|Abhijith S Parackal et.al.|[2602.02237](http://arxiv.org/abs/2602.02237)|null|
+|**2026-02-02**|**ChemDCAT-AP: Enabling Semantic Interoperability with a Contextual Extension of DCAT-AP**|Philip Stroemert et.al.|[2602.01822](http://arxiv.org/abs/2602.01822)|null|
+|**2026-02-02**|**Physics Informed Generative AI Enabling Labour Free Segmentation For Microscopy Analysis**|Salma Zahran et.al.|[2602.01710](http://arxiv.org/abs/2602.01710)|null|
+|**2026-02-01**|**Robust Machine Learning Framework for Reliable Discovery of High-Performance Half-Heusler Thermoelectrics**|Shoeb Athar et.al.|[2602.01149](http://arxiv.org/abs/2602.01149)|null|
+|**2026-01-31**|**A New Workflow for Materials Discovery Bridging the Gap Between Experimental Databases and Graph Neural Networks**|Brandon Schoener et.al.|[2602.00756](http://arxiv.org/abs/2602.00756)|null|
+|**2026-01-31**|**Multimodal Machine Learning for Integrating Heterogeneous Analytical Systems**|Shun Muroga et.al.|[2602.00590](http://arxiv.org/abs/2602.00590)|null|
+|**2026-01-30**|**Synthesis of Monolayer Ice on a Hydrophobic Metal Surface**|Qiaoxiao Zhao et.al.|[2601.22460](http://arxiv.org/abs/2601.22460)|null|
 |**2026-01-29**|**Sustainable Materials Discovery in the Era of Artificial Intelligence**|Sajid Mannan et.al.|[2601.21527](http://arxiv.org/abs/2601.21527)|null|
 |**2026-01-29**|**Screening 39 billion protostructures for materials discovery**|Abhijith S Parackal et.al.|[2601.21393](http://arxiv.org/abs/2601.21393)|null|
 |**2026-01-29**|**Smooth Dynamic Cutoffs for Machine Learning Interatomic Potentials**|Kevin Han et.al.|[2601.21147](http://arxiv.org/abs/2601.21147)|null|
@@ -433,6 +480,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**ASGMamba: Adaptive Spectral Gating Mamba for Multivariate Time Series Forecasting**|Qianyang Li et.al.|[2602.01668](http://arxiv.org/abs/2602.01668)|null|
+|**2026-02-02**|**Reconstruction of instantaneous flow fields from transient velocity snapshots using physics-informed neural networks: Applications to pulsatile blood flow behind a stenosis**|Kakeru Ueda et.al.|[2602.01542](http://arxiv.org/abs/2602.01542)|null|
+|**2026-02-01**|**WAKESET: A Large-Scale, High-Reynolds Number Flow Dataset for Machine Learning of Turbulent Wake Dynamics**|Zachary Cooper-Baldock et.al.|[2602.01379](http://arxiv.org/abs/2602.01379)|null|
+|**2026-01-31**|**Digital Twin Assessment of Filter Clogging Penalties in VFD-Driven Industrial Fan Systems**|Wichai Pattanapol et.al.|[2602.00519](http://arxiv.org/abs/2602.00519)|null|
+|**2026-01-31**|**FISC: A Fluid-Inspired Framework for Decentralized and Scalable Swarm Control**|Mohini Priya Kolluri et.al.|[2602.00480](http://arxiv.org/abs/2602.00480)|null|
 |**2026-01-29**|**Learning Transient Convective Heat Transfer with Geometry Aware World Models**|Onur T. Doganay et.al.|[2601.22086](http://arxiv.org/abs/2601.22086)|null|
 |**2026-01-29**|**Cross-Fusion Distance: A Novel Metric for Measuring Fusion and Separability Between Data Groups in Representation Space**|Xiaolong Zhang et.al.|[2601.22036](http://arxiv.org/abs/2601.22036)|null|
 |**2026-01-29**|**From Particles to Agents: Hallucination as a Metric for Cognitive Friction in Spatial Simulation**|Javier Argota Sánchez-Vaquerizo et.al.|[2601.21977](http://arxiv.org/abs/2601.21977)|null|
@@ -474,6 +526,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Active Causal Experimentalist (ACE): Learning Intervention Strategies via Direct Preference Optimization**|Patrick Cooper et.al.|[2602.02451](http://arxiv.org/abs/2602.02451)|null|
+|**2026-02-02**|**Embedding Perturbation may Better Reflect the Uncertainty in LLM Reasoning**|Qihao Wen et.al.|[2602.02427](http://arxiv.org/abs/2602.02427)|null|
+|**2026-02-02**|**SafeGround: Know When to Trust GUI Grounding Models via Uncertainty Calibration**|Qingni Wang et.al.|[2602.02419](http://arxiv.org/abs/2602.02419)|null|
+|**2026-02-02**|**Active Transfer Bagging: A New Approach for Accelerated Active Learning Acquisition of Data by Combined Transfer Learning and Bagging Based Models**|Vivienne Pelletier et.al.|[2602.02415](http://arxiv.org/abs/2602.02415)|null|
+|**2026-02-02**|**What to make of the Earth's curiously intermediate land fraction?**|David Kipping et.al.|[2602.02392](http://arxiv.org/abs/2602.02392)|null|
+|**2026-02-02**|**On a system of equations arising in meteorology: Well-posedness and data assimilation**|Eduard Feireisl et.al.|[2602.02328](http://arxiv.org/abs/2602.02328)|null|
+|**2026-02-02**|**Leave-One-Out Neighborhood Smoothing for Graphons: Berry-Esseen Bounds, Confidence Intervals, and Honest Tuning**|Behzad Aalipur et.al.|[2602.02319](http://arxiv.org/abs/2602.02319)|null|
+|**2026-02-02**|**A spatial random forest algorithm for population-level epidemiological risk assessment**|Duncan Lee et.al.|[2602.02277](http://arxiv.org/abs/2602.02277)|null|
+|**2026-02-02**|**LiFlow: Flow Matching for 3D LiDAR Scene Completion**|Andrea Matteazzi et.al.|[2602.02232](http://arxiv.org/abs/2602.02232)|null|
+|**2026-02-02**|**Posterior Uncertainty for Targeted Parameters in Bayesian Bootstrap Procedures**|Magid Sabbagh et.al.|[2602.02216](http://arxiv.org/abs/2602.02216)|null|
 |**2026-01-29**|**Lens-descriptor guided evolutionary algorithm for optimization of complex optical systems with glass choice**|Kirill Antonov et.al.|[2601.22075](http://arxiv.org/abs/2601.22075)|null|
 |**2026-01-29**|**Making Foundation Models Probabilistic via Singular Value Ensembles**|Mehmet Ozgur Turkoglu et.al.|[2601.22068](http://arxiv.org/abs/2601.22068)|null|
 |**2026-01-29**|**Hierarchy of discriminative power and complexity in learning quantum ensembles**|Jian Yao et.al.|[2601.22005](http://arxiv.org/abs/2601.22005)|null|
@@ -519,6 +581,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Coordinated planning of European charging infrastructure and energy system for optimal V1G and V2G deployment**|Francesco Sanvito et.al.|[2602.01862](http://arxiv.org/abs/2602.01862)|null|
+|**2026-01-17**|**Representation Learning Enhanced Deep Reinforcement Learning for Optimal Operation of Hydrogen-based Multi-Energy Systems**|Zhenyu Pu et.al.|[2602.00027](http://arxiv.org/abs/2602.00027)|null|
 |**2026-01-29**|**Effect of Nanopore Wall Geometry on Electrical Double-Layer Charging Dynamics**|Bryce Rives et.al.|[2601.22048](http://arxiv.org/abs/2601.22048)|null|
 |**2026-01-29**|**Quantum steering probes energy transfer in quantum batteries**|Meng-Long Song et.al.|[2601.21398](http://arxiv.org/abs/2601.21398)|null|
 |**2026-01-28**|**A generative machine learning model for designing metal hydrides applied to hydrogen storage**|Xiyuan Liu et.al.|[2601.20892](http://arxiv.org/abs/2601.20892)|null|
