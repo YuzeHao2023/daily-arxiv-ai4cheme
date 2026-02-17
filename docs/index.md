@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.02.16
+## Updated on 2026.02.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Process Modeling & System Identification
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**Data-driven modeling of shock physics by physics-informed MeshGraphNets**|S. Zhang et.al.|[2602.14918](http://arxiv.org/abs/2602.14918)|null|
+|**2026-02-16**|**Adjoint-based Shape Optimization, Machine Learning based Surrogate Models, Conditional Variational Autoencoder (CVAE), Voith Schneider propulsion (VSP), Self-propelled Ship, Propulsion Model, Hull Optimization**|Moloud Arian Maram et.al.|[2602.14907](http://arxiv.org/abs/2602.14907)|null|
+|**2026-02-16**|**Extending Multi-Source Bayesian Optimization With Causality Principles**|Luuk Jacobs et.al.|[2602.14791](http://arxiv.org/abs/2602.14791)|null|
+|**2026-02-16**|**Solving Inverse Parametrized Problems via Finite Elements and Extreme Learning Networks**|Erik Burman et.al.|[2602.14757](http://arxiv.org/abs/2602.14757)|null|
+|**2026-02-16**|**Traceable Latent Variable Discovery Based on Multi-Agent Collaboration**|Huaming Du et.al.|[2602.14456](http://arxiv.org/abs/2602.14456)|null|
+|**2026-02-15**|**Simultaneous State Estimation and Online Model Learning in a Soft Robotic System**|Jan-Hendrik Ewering et.al.|[2602.14092](http://arxiv.org/abs/2602.14092)|null|
+|**2026-02-15**|**KoopGen: Koopman Generator Networks for Representing and Predicting Dynamical Systems with Continuous Spectra**|Liangyu Su et.al.|[2602.14011](http://arxiv.org/abs/2602.14011)|null|
+|**2026-02-14**|**VSAL: A Vision Solver with Adaptive Layouts for Graph Property Detection**|Jiahao Xie et.al.|[2602.13880](http://arxiv.org/abs/2602.13880)|null|
+|**2026-02-14**|**HyFunc: Accelerating LLM-based Function Calls for Agentic AI through Hybrid-Model Cascade and Dynamic Templating**|Weibin Liao et.al.|[2602.13665](http://arxiv.org/abs/2602.13665)|null|
+|**2026-02-14**|**From time series to dissipativity of linear systems with dynamic supply rates**|Henk J. van Waarde et.al.|[2602.13654](http://arxiv.org/abs/2602.13654)|null|
 |**2026-02-13**|**Encoder initialisation methods in the model augmentation setting**|J. H. Hoekstra et.al.|[2602.13108](http://arxiv.org/abs/2602.13108)|null|
 |**2026-02-13**|**Barron-Wiener-Laguerre models**|Rahul Manavalan et.al.|[2602.13098](http://arxiv.org/abs/2602.13098)|null|
 |**2026-02-13**|**Physics-Informed Laplace Neural Operator for Solving Partial Differential Equations**|Heechang Kim et.al.|[2602.12706](http://arxiv.org/abs/2602.12706)|null|
@@ -215,6 +225,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**Fault Detection in Electrical Distribution System using Autoencoders**|Sidharthenee Nayak et.al.|[2602.14939](http://arxiv.org/abs/2602.14939)|null|
+|**2026-02-16**|**Cognitive networks reconstruct mindsets about STEM subjects and educational contexts in almost 1000 high-schoolers, University students and LLM-based digital twins**|Francesco Gariboldi et.al.|[2602.14749](http://arxiv.org/abs/2602.14749)|null|
+|**2026-02-15**|**Reverse N-Wise Output-Oriented Testing for AI/ML and Quantum Computing Systems**|Lamine Rihani et.al.|[2602.14275](http://arxiv.org/abs/2602.14275)|null|
+|**2026-02-15**|**Introduction to Digital Twins for the Smart Grid**|Xiaoran Liu et.al.|[2602.14256](http://arxiv.org/abs/2602.14256)|null|
+|**2026-02-15**|**Multi-Agent Debate: A Unified Agentic Framework for Tabular Anomaly Detection**|Pinqiao Wang et.al.|[2602.14251](http://arxiv.org/abs/2602.14251)|null|
+|**2026-02-14**|**UAV-SEAD: State Estimation Anomaly Dataset for UAVs**|Aykut Kabaoglu et.al.|[2602.13900](http://arxiv.org/abs/2602.13900)|null|
+|**2026-02-14**|**Semantic-Contact Fields for Category-Level Generalizable Tactile Tool Manipulation**|Kevin Yuchen Ma et.al.|[2602.13833](http://arxiv.org/abs/2602.13833)|null|
+|**2026-02-14**|**AnomaMind: Agentic Time Series Anomaly Detection with Tool-Augmented Reasoning**|Xiaoyu Tao et.al.|[2602.13807](http://arxiv.org/abs/2602.13807)|null|
+|**2026-02-14**|**Generative Latent Representations of 3D Brain MRI for Multi-Task Downstream Analysis in Down Syndrome**|Jordi Malé et.al.|[2602.13731](http://arxiv.org/abs/2602.13731)|null|
+|**2026-02-13**|**A real-time UAS hyperspectral anomaly detection system**|Thomas P. Watson et.al.|[2602.13509](http://arxiv.org/abs/2602.13509)|null|
 |**2026-02-13**|**Universal Transformation of One-Class Classifiers for Unsupervised Anomaly Detection**|Declan McIntosh et.al.|[2602.13091](http://arxiv.org/abs/2602.13091)|null|
 |**2026-02-13**|**Drift-Aware Variational Autoencoder-based Anomaly Detection with Two-level Ensembling**|Jin Li et.al.|[2602.12976](http://arxiv.org/abs/2602.12976)|null|
 |**2026-02-13**|**Anomaly Hunter for Alerts (AHA): Anomaly Detection in the ZTF Transient Alert Stream**|Leyla Iskandarli et.al.|[2602.12955](http://arxiv.org/abs/2602.12955)|null|
@@ -446,6 +466,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**Pattern preservation in finite to infinite-horizon optimal control problems for dissipative systems**|Matteo Della Rossa et.al.|[2602.14944](http://arxiv.org/abs/2602.14944)|null|
+|**2026-02-16**|**An Age-Structured Vaccination Strategy for Epidemic Containment: A Model Predictive Control Approach**|Candy Sonveaux et.al.|[2602.14758](http://arxiv.org/abs/2602.14758)|null|
+|**2026-02-16**|**Distributed Multi-Step Model Predictive Control for Consensus**|Navid Noroozi et.al.|[2602.14714](http://arxiv.org/abs/2602.14714)|null|
+|**2026-02-16**|**Second-order conditions for bang-bang control of elliptic equations in arbitrary dimensions**|Gerd Wachsmuth et.al.|[2602.14632](http://arxiv.org/abs/2602.14632)|null|
+|**2026-02-16**|**Extragradient methods for mean field games of controls and mean field type FBSDEs**|Charles Meynard et.al.|[2602.14621](http://arxiv.org/abs/2602.14621)|null|
+|**2026-02-16**|**Design of Robust Raman Pulses for Cold Atom Interferometers Based on the Krotov Algorithm**|Ziwen Song et.al.|[2602.14494](http://arxiv.org/abs/2602.14494)|null|
+|**2026-02-16**|**LRD-MPC: Efficient MPC Inference through Low-rank Decomposition**|Tingting Tang et.al.|[2602.14397](http://arxiv.org/abs/2602.14397)|null|
+|**2026-02-15**|**Conformal Signal Temporal Logic for Robust Reinforcement Learning Control: A Case Study**|Hani Beirami et.al.|[2602.14322](http://arxiv.org/abs/2602.14322)|null|
+|**2026-02-15**|**I-Band Asymptotic Giant Branch (IAGB) Stars: II. A First Estimate of their Precision and a Differential Zero Point**|Wendy L. Freedman et.al.|[2602.14304](http://arxiv.org/abs/2602.14304)|null|
+|**2026-02-15**|**I-Band Asymptotic Giant Branch (IAGB) Stars: I. Exploring a New Standard Candle for the Extragalactic Distance Scale**|Barry F. Madore et.al.|[2602.14242](http://arxiv.org/abs/2602.14242)|null|
 |**2026-02-13**|**Accuracy Comes at a Cost: Optimal Localisation Against a Flow**|Till Welker et.al.|[2602.13173](http://arxiv.org/abs/2602.13173)|null|
 |**2026-02-13**|**Optimal Take-off under Fuzzy Clearances**|Hugo Henry et.al.|[2602.13166](http://arxiv.org/abs/2602.13166)|null|
 |**2026-02-13**|**HoRAMA: Holistic Reconstruction with Automated Material Assignment for Ray Tracing using NYURay**|Mingjun Ying et.al.|[2602.12942](http://arxiv.org/abs/2602.12942)|null|
@@ -589,6 +619,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**Forked Physics Informed Neural Networks for Coupled Systems of Differential equations**|Zhao-Wei Wang et.al.|[2602.14554](http://arxiv.org/abs/2602.14554)|null|
 |**2026-02-11**|**Stochastic synthesis-degradation processes: first-passage properties and connections with resetting**|Gabriel Mercado-Vásquez et.al.|[2602.11095](http://arxiv.org/abs/2602.11095)|null|
 |**2026-02-10**|**Field-driven Ion Pairing Dynamics in Concentrated Electrolytes**|Seokjin Moon et.al.|[2602.10257](http://arxiv.org/abs/2602.10257)|null|
 |**2026-02-10**|**Toward Fine-Grained Facial Control in 3D Talking Head Generation**|Shaoyang Xie et.al.|[2602.09736](http://arxiv.org/abs/2602.09736)|null|
@@ -615,6 +646,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation**|Mengdan Zhu et.al.|[2602.15005](http://arxiv.org/abs/2602.15005)|null|
+|**2026-02-16**|**Faster Molecular Dynamics with Neural Network Potentials via Distilled Multiple Time-Stepping and Non-Conservative Forces**|Nicolaï Gouraud et.al.|[2602.14975](http://arxiv.org/abs/2602.14975)|null|
+|**2026-02-16**|**PAct: Part-Decomposed Single-View Articulated Object Generation**|Qingming Liu et.al.|[2602.14965](http://arxiv.org/abs/2602.14965)|null|
+|**2026-02-16**|**Practical and improved density functionals for computational catalysis on metal surfaces**|Benjamin X. Shi et.al.|[2602.14962](http://arxiv.org/abs/2602.14962)|null|
+|**2026-02-16**|**Algorithmic Simplification of Neural Networks with Mosaic-of-Motifs**|Pedram Bakhtiarifard et.al.|[2602.14896](http://arxiv.org/abs/2602.14896)|null|
+|**2026-02-16**|**The impact of the formation channel on gravitational-wave-galaxy cross-correlations**|Kabir Chakravarti et.al.|[2602.14825](http://arxiv.org/abs/2602.14825)|null|
+|**2026-02-16**|**FactorMiner: A Self-Evolving Agent with Skills and Experience Memory for Financial Alpha Discovery**|Yanlong Wang et.al.|[2602.14670](http://arxiv.org/abs/2602.14670)|null|
+|**2026-02-16**|**Altermagnetic Even-Odd Effects in CsV $_2$Te$_2$ O Josephson Junctions**|Chuang Li et.al.|[2602.14485](http://arxiv.org/abs/2602.14485)|null|
+|**2026-02-16**|**Measuring and Mitigating Post-hoc Rationalization in Reverse Chain-of-Thought Generation**|Guangyue Peng et.al.|[2602.14469](http://arxiv.org/abs/2602.14469)|null|
+|**2026-02-16**|**LLM-Guided Knowledge Distillation for Temporal Knowledge Graph Reasoning**|Wang Xing et.al.|[2602.14428](http://arxiv.org/abs/2602.14428)|null|
 |**2026-02-13**|**Presaging Doppler beaming discoveries of double white dwarfs during the Rubin LSST era**|Gautham Adamane Pallathadka et.al.|[2602.13137](http://arxiv.org/abs/2602.13137)|null|
 |**2026-02-13**|**Unleashing MLLMs on the Edge: A Unified Framework for Cross-Modal ReID via Adaptive SVD Distillation**|Hongbo Jiang et.al.|[2602.12936](http://arxiv.org/abs/2602.12936)|null|
 |**2026-02-13**|**Trust the uncertain teacher: distilling dark knowledge via calibrated uncertainty**|Jeonghyun Kim et.al.|[2602.12687](http://arxiv.org/abs/2602.12687)|null|
@@ -760,6 +801,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**Practical and improved density functionals for computational catalysis on metal surfaces**|Benjamin X. Shi et.al.|[2602.14962](http://arxiv.org/abs/2602.14962)|null|
+|**2026-02-15**|**In Transformer We Trust? A Perspective on Transformer Architecture Failure Modes**|Trishit Mondal et.al.|[2602.14318](http://arxiv.org/abs/2602.14318)|null|
+|**2026-02-10**|**PeroMAS: A Multi-agent System of Perovskite Material Discovery**|Yishu Wang et.al.|[2602.13312](http://arxiv.org/abs/2602.13312)|null|
 |**2026-02-12**|**A Transformer-based Model for Rapid Microstructure Inference from Four-Dimensional Scanning Transmission Electron Microscopy Data**|Kwanghwi Je et.al.|[2602.12420](http://arxiv.org/abs/2602.12420)|null|
 |**2026-02-12**|**Markov State Models for Tracking Reaction Dynamics on Catalytic Nanoparticles**|Caitlin A. McCandler et.al.|[2602.12037](http://arxiv.org/abs/2602.12037)|null|
 |**2026-02-12**|**A Hardware-Native Realisation of Semi-Empirical Electronic Structure Theory on Field-Programmable Gate Arrays**|Xincheng Miao et.al.|[2602.11702](http://arxiv.org/abs/2602.11702)|null|
@@ -890,6 +934,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**Cold-Start Personalization via Training-Free Priors from Structured World Models**|Avinandan Bose et.al.|[2602.15012](http://arxiv.org/abs/2602.15012)|null|
+|**2026-02-16**|**Distributed Quantum Gaussian Processes for Multi-Agent Systems**|Meet Gandhi et.al.|[2602.15006](http://arxiv.org/abs/2602.15006)|null|
+|**2026-02-16**|**Activation-Space Uncertainty Quantification for Pretrained Networks**|Richard Bergna et.al.|[2602.14934](http://arxiv.org/abs/2602.14934)|null|
+|**2026-02-16**|**The Well-Tempered Classifier: Some Elementary Properties of Temperature Scaling**|Pierre-Alexandre Mattei et.al.|[2602.14862](http://arxiv.org/abs/2602.14862)|null|
+|**2026-02-16**|**Solving Inverse Parametrized Problems via Finite Elements and Extreme Learning Networks**|Erik Burman et.al.|[2602.14757](http://arxiv.org/abs/2602.14757)|null|
+|**2026-02-16**|**Weak Poincaré inequalities for Deterministic-scan Metropolis-within-Gibbs samplers**|Mengxi Gao et.al.|[2602.14692](http://arxiv.org/abs/2602.14692)|null|
+|**2026-02-16**|**Identification of random material properties as stochastic inversion problem**|Eliška Kočková et.al.|[2602.14684](http://arxiv.org/abs/2602.14684)|null|
+|**2026-02-16**|**GenPANIS: A Latent-Variable Generative Framework for Forward and Inverse PDE Problems in Multiphase Media**|Matthaios Chatzopoulos et.al.|[2602.14642](http://arxiv.org/abs/2602.14642)|null|
+|**2026-02-16**|**Tabular Foundation Models Can Learn Association Rules**|Erkan Karabulut et.al.|[2602.14622](http://arxiv.org/abs/2602.14622)|null|
+|**2026-02-16**|**Seismic detection of core magnetic fields in red giants using the gravity offset**|Matisse Villate et.al.|[2602.14570](http://arxiv.org/abs/2602.14570)|null|
 |**2026-02-13**|**Barron-Wiener-Laguerre models**|Rahul Manavalan et.al.|[2602.13098](http://arxiv.org/abs/2602.13098)|null|
 |**2026-02-13**|**Experimentation, Biased Learning, and Conjectural Variations in Competitive Dynamic Pricing**|Bar Light et.al.|[2602.12888](http://arxiv.org/abs/2602.12888)|null|
 |**2026-02-13**|**Lecture notes: From Gaussian processes to feature learning**|Moritz Helias et.al.|[2602.12855](http://arxiv.org/abs/2602.12855)|null|
@@ -1033,6 +1087,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-15**|**Early-stage memory effect on the dephasing charger-mediated quantum battery**|Yu Wang et.al.|[2602.14146](http://arxiv.org/abs/2602.14146)|null|
+|**2026-02-13**|**Room Temperature RF Sputtering of Mixed Ionic and Electronic Conductor Nd2Ni0.8Cu0.2O4+d films**|N. Coppola et.al.|[2602.13366](http://arxiv.org/abs/2602.13366)|null|
 |**2026-02-13**|**Multi-physics Preconditioning for Thermally Activated Batteries**|Malachi Phillips et.al.|[2602.13079](http://arxiv.org/abs/2602.13079)|null|
 |**2026-02-13**|**Model-based upscaling of vanadium redox flow battery systems: engineering challenges and solutions**|B. Sziffer et.al.|[2602.12776](http://arxiv.org/abs/2602.12776)|null|
 |**2026-02-12**|**Function-Space Decoupled Diffusion for Forward and Inverse Modeling in Carbon Capture and Storage**|Xin Ju et.al.|[2602.12274](http://arxiv.org/abs/2602.12274)|null|
