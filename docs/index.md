@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.02.18
+## Updated on 2026.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Process Modeling & System Identification
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Factorization Machine with Quadratic-Optimization Annealing for RNA Inverse Folding and Evaluation of Binary-Integer Encoding and Nucleotide Assignment**|Shuta Kikuchi et.al.|[2602.16643](http://arxiv.org/abs/2602.16643)|null|
+|**2026-02-18**|**AIFL: A Global Daily Streamflow Forecasting Model Using Deterministic LSTM Pre-trained on ERA5-Land and Fine-tuned on IFS**|Maria Luisa Taccari et.al.|[2602.16579](http://arxiv.org/abs/2602.16579)|null|
+|**2026-02-18**|**System Identification under Constraints and Disturbance: A Bayesian Estimation Approach**|Sergi Martinez et.al.|[2602.16358](http://arxiv.org/abs/2602.16358)|null|
+|**2026-02-18**|**Inverse Engineering of Optical Constants in Photochromic Micron-Scale Hybrid Films**|Bahrem Serhat Danis et.al.|[2602.16180](http://arxiv.org/abs/2602.16180)|null|
+|**2026-02-17**|**Hybrid Model Predictive Control with Physics-Informed Neural Network for Satellite Attitude Control**|Carlo Cena et.al.|[2602.15954](http://arxiv.org/abs/2602.15954)|null|
 |**2026-02-17**|**Deep Learning for Point Spread Function Modeling in Cosmology**|Dayana Andrea Henao Arbeláez et.al.|[2602.15780](http://arxiv.org/abs/2602.15780)|null|
 |**2026-02-17**|**Hierarchical Decomposition of Separable Workflow-Nets**|Humam Kourani et.al.|[2602.15739](http://arxiv.org/abs/2602.15739)|null|
 |**2026-02-17**|**Continuous-Time Piecewise-Linear Recurrent Neural Networks**|Alena Brändle et.al.|[2602.15649](http://arxiv.org/abs/2602.15649)|null|
@@ -234,6 +239,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**VETime: Vision Enhanced Zero-Shot Time Series Anomaly Detection**|Yingyuan Yang et.al.|[2602.16681](http://arxiv.org/abs/2602.16681)|null|
+|**2026-02-18**|**Automated Extraction of Mechanical Constitutive Models from Scientific Literature using Large Language Models: Applications in Cultural Heritage Conservation**|Rui Hu et.al.|[2602.16551](http://arxiv.org/abs/2602.16551)|null|
+|**2026-02-18**|**Software-heavy Asset Administration Shells: Classification and Use Cases**|Carsten Ellwein et.al.|[2602.16499](http://arxiv.org/abs/2602.16499)|null|
+|**2026-02-18**|**Explainability for Fault Detection System in Chemical Processes**|Georgios Gravanis et.al.|[2602.16341](http://arxiv.org/abs/2602.16341)|null|
+|**2026-02-18**|**Machine Learning Driven Prediction of the Behavior of Biohybrid Actuators**|Michail-Antisthenis Tsompanas et.al.|[2602.16330](http://arxiv.org/abs/2602.16330)|null|
+|**2026-02-18**|**World Model Failure Classification and Anomaly Detection for Autonomous Inspection**|Michelle Ho et.al.|[2602.16182](http://arxiv.org/abs/2602.16182)|null|
+|**2026-02-18**|**Collection: UAV-Based Wireless Multi-modal Measurements from AERPAW Autonomous Data Mule (AADM) Challenge in Digital Twin and Real-World Environments**|Md Sharif Hossen et.al.|[2602.16163](http://arxiv.org/abs/2602.16163)|null|
+|**2026-02-18**|**Real time fault detection in 3D printers using Convolutional Neural Networks and acoustic signals**|Muhammad Fasih Waheed et.al.|[2602.16118](http://arxiv.org/abs/2602.16118)|null|
+|**2026-02-18**|**Advancing Industry 4.0: Multimodal Sensor Fusion for AI-Based Fault Detection in 3D Printing**|Muhammad Fasih Waheed et.al.|[2602.16108](http://arxiv.org/abs/2602.16108)|null|
+|**2026-02-18**|**Axle Sensor Fusion for Online Continual Wheel Fault Detection in Wayside Railway Monitoring**|Afonso Lourenço et.al.|[2602.16101](http://arxiv.org/abs/2602.16101)|null|
 |**2026-02-17**|**Developing AI Agents with Simulated Data: Why, what, and how?**|Xiaoran Liu et.al.|[2602.15816](http://arxiv.org/abs/2602.15816)|null|
 |**2026-02-17**|**Criteria-first, semantics-later: reproducible structure discovery in image-based sciences**|Jan Bumberger et.al.|[2602.15712](http://arxiv.org/abs/2602.15712)|null|
 |**2026-02-17**|**Physics-Informed Anomaly Detection of Terrain Material Change in Radar Imagery**|Abdel Hakiem Mohamed Abbas Mohamed Ahmed et.al.|[2602.15618](http://arxiv.org/abs/2602.15618)|null|
@@ -485,6 +500,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Partially observed controlled Markov chains and optimal control of the Wonham filter**|Fulvia Confortola et.al.|[2602.16392](http://arxiv.org/abs/2602.16392)|null|
+|**2026-02-18**|**Dynamic Modeling and MPC for Locomotion of Tendon-Driven Soft Quadruped**|Saumya Karan et.al.|[2602.16371](http://arxiv.org/abs/2602.16371)|null|
+|**2026-02-18**|**System Identification under Constraints and Disturbance: A Bayesian Estimation Approach**|Sergi Martinez et.al.|[2602.16358](http://arxiv.org/abs/2602.16358)|null|
+|**2026-02-18**|**Machine Learning Driven Prediction of the Behavior of Biohybrid Actuators**|Michail-Antisthenis Tsompanas et.al.|[2602.16330](http://arxiv.org/abs/2602.16330)|null|
+|**2026-02-18**|**Money-Back Tontines for Retirement Decumulation: Neural-Network Optimization under Systematic Longevity Risk**|German Nova Orozco et.al.|[2602.16212](http://arxiv.org/abs/2602.16212)|null|
+|**2026-02-18**|**Nonplanar Model Predictive Control for Autonomous Vehicles with Recursive Sparse Gaussian Process Dynamics**|Ahmad Amine et.al.|[2602.16206](http://arxiv.org/abs/2602.16206)|null|
+|**2026-02-18**|**SIT-LMPC: Safe Information-Theoretic Learning Model Predictive Control for Iterative Tasks**|Zirui Zang et.al.|[2602.16187](http://arxiv.org/abs/2602.16187)|null|
+|**2026-02-18**|**Null controllability of one-dimensional quasilinear parabolic equations via multiplicative controls**|Jilei Huang et.al.|[2602.16150](http://arxiv.org/abs/2602.16150)|null|
+|**2026-02-17**|**Hybrid Model Predictive Control with Physics-Informed Neural Network for Satellite Attitude Control**|Carlo Cena et.al.|[2602.15954](http://arxiv.org/abs/2602.15954)|null|
+|**2026-02-17**|**Gas Accretion versus BH Merger driven Growth Modes of Supermassive Black Holes and Implications for the Little Red Dots**|Paramita Barai et.al.|[2602.15952](http://arxiv.org/abs/2602.15952)|null|
 |**2026-02-17**|**Time-Certified and Efficient NMPC via Koopman Operator**|Liang Wu et.al.|[2602.15596](http://arxiv.org/abs/2602.15596)|null|
 |**2026-02-17**|**Clinically Inspired Symptom-Guided Depression Detection from Emotion-Aware Speech Representations**|Chaithra Nerella et.al.|[2602.15578](http://arxiv.org/abs/2602.15578)|null|
 |**2026-02-17**|**Revealing and Enhancing Core Visual Regions: Harnessing Internal Attention Dynamics for Hallucination Mitigation in LVLMs**|Guangtao Lyu et.al.|[2602.15556](http://arxiv.org/abs/2602.15556)|null|
@@ -674,6 +699,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Universal Framework for Decomposing Ionic Transport into Interpretable Mechanisms**|KyuJung Jun et.al.|[2602.16636](http://arxiv.org/abs/2602.16636)|null|
+|**2026-02-18**|**Phase-Field Models for Particle-Stabilised Emulsions**|Elisabeth C. Eij et.al.|[2602.16622](http://arxiv.org/abs/2602.16622)|null|
+|**2026-02-18**|**ColBERT-Zero: To Pre-train Or Not To Pre-train ColBERT models**|Antoine Chaffin et.al.|[2602.16609](http://arxiv.org/abs/2602.16609)|null|
+|**2026-02-18**|**VIGOR: Visual Goal-In-Context Inference for Unified Humanoid Fall Safety**|Osher Azulay et.al.|[2602.16511](http://arxiv.org/abs/2602.16511)|null|
+|**2026-02-18**|**Interpretability-by-Design with Accurate Locally Additive Models and Conditional Feature Effects**|Vasilis Gkolemis et.al.|[2602.16503](http://arxiv.org/abs/2602.16503)|null|
+|**2026-02-18**|**MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks**|Zexue He et.al.|[2602.16313](http://arxiv.org/abs/2602.16313)|null|
+|**2026-02-18**|**A Calculus of Overlays**|Bo Yang et.al.|[2602.16291](http://arxiv.org/abs/2602.16291)|null|
+|**2026-02-18**|**Uncertainty-Guided Inference-Time Depth Adaptation for Transformer-Based Visual Tracking**|Patrick Poggi et.al.|[2602.16160](http://arxiv.org/abs/2602.16160)|null|
+|**2026-02-17**|**Updating Parametric Knowledge with Context Distillation Retains Post-Training Capabilities**|Shankar Padmanabhan et.al.|[2602.16093](http://arxiv.org/abs/2602.16093)|null|
+|**2026-02-17**|**Memristive tabular variational autoencoder for compression of analog data in high energy physics**|Rajat Gupta et.al.|[2602.15990](http://arxiv.org/abs/2602.15990)|null|
 |**2026-02-17**|**Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching**|Zhen Wu et.al.|[2602.15827](http://arxiv.org/abs/2602.15827)|null|
 |**2026-02-17**|**VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation**|Hui Ren et.al.|[2602.15819](http://arxiv.org/abs/2602.15819)|null|
 |**2026-02-17**|**Surface Block Identity Controls Transport of Symmetric Diblock Copolymer Through Nanopores**|Sang Yup Lee et.al.|[2602.15795](http://arxiv.org/abs/2602.15795)|null|
@@ -839,6 +874,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**The rise and fall of an oxide: insights into the phase diagram of bismuth oxide on Au(111)**|Alberto Turoldo et.al.|[2602.16552](http://arxiv.org/abs/2602.16552)|null|
 |**2026-02-16**|**Practical and improved density functionals for computational catalysis on metal surfaces**|Benjamin X. Shi et.al.|[2602.14962](http://arxiv.org/abs/2602.14962)|null|
 |**2026-02-15**|**In Transformer We Trust? A Perspective on Transformer Architecture Failure Modes**|Trishit Mondal et.al.|[2602.14318](http://arxiv.org/abs/2602.14318)|null|
 |**2026-02-10**|**PeroMAS: A Multi-agent System of Perovskite Material Discovery**|Yishu Wang et.al.|[2602.13312](http://arxiv.org/abs/2602.13312)|null|
@@ -905,6 +941,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Imaging-Derived Coronary Fractional Flow Reserve: Advances in Physics-Based, Machine-Learning, and Physics-Informed Methods**|Tanxin Zhu et.al.|[2602.16000](http://arxiv.org/abs/2602.16000)|null|
 |**2026-02-17**|**Novel distance-based masking and adaptive alpha-shape methods for CNN-ready reconstruction of arbitrary 2D CFD flow domains**|Mehran Sharifi et.al.|[2602.15536](http://arxiv.org/abs/2602.15536)|null|
 |**2026-02-17**|**Development and validation of a sharp interface immersed boundary method for high-speed flows**|Punit Pandey et.al.|[2602.15404](http://arxiv.org/abs/2602.15404)|null|
 |**2026-02-16**|**Distributional Deep Learning for Super-Resolution of 4D Flow MRI under Domain Shift**|Xiaoyi Wen et.al.|[2602.15167](http://arxiv.org/abs/2602.15167)|null|
@@ -975,6 +1012,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Stoichiometry Dependent Properties of Cerium Hydride: An Active Learning Developed Interatomic Potential Study**|Brenden W. Hamilton et.al.|[2602.16628](http://arxiv.org/abs/2602.16628)|null|
+|**2026-02-18**|**Scattering and sputtering on the lunar surface; Insights from negative ions observed at the surface**|Romain Canu-Blot et.al.|[2602.16567](http://arxiv.org/abs/2602.16567)|null|
+|**2026-02-18**|**Formalized Run-Time Analysis of Active Learning -- Coalgebraically in Agda**|Thorsten Wißmann et.al.|[2602.16427](http://arxiv.org/abs/2602.16427)|null|
+|**2026-02-18**|**Scalable Base Station Configuration via Bayesian Optimization with Block Coordinate Descent**|Kakeru Takamori et.al.|[2602.16378](http://arxiv.org/abs/2602.16378)|null|
+|**2026-02-18**|**Bayesian Quadrature: Gaussian Processes for Integration**|Maren Mahsereci et.al.|[2602.16218](http://arxiv.org/abs/2602.16218)|null|
+|**2026-02-18**|**UCTECG-Net: Uncertainty-aware Convolution Transformer ECG Network for Arrhythmia Detection**|Hamzeh Asgharnezhad et.al.|[2602.16216](http://arxiv.org/abs/2602.16216)|null|
+|**2026-02-18**|**Graph neural network for colliding particles with an application to sea ice floe modeling**|Ruibiao Zhu et.al.|[2602.16213](http://arxiv.org/abs/2602.16213)|null|
+|**2026-02-18**|**Uncertainty-Aware Neural Multivariate Geostatistics**|Yeseul Jeon et.al.|[2602.16146](http://arxiv.org/abs/2602.16146)|null|
+|**2026-02-17**|**How Uncertain Is the Grade? A Benchmark of Uncertainty Metrics for LLM-Based Automatic Assessment**|Hang Li et.al.|[2602.16039](http://arxiv.org/abs/2602.16039)|null|
+|**2026-02-17**|**Geometry-Aware Uncertainty Quantification via Conformal Prediction on Manifolds**|Marzieh Amiri Shahbazi et.al.|[2602.16015](http://arxiv.org/abs/2602.16015)|null|
 |**2026-02-17**|**Development of an accurate formalism to predict properties of two-neutron halo nuclei: case study of $^{22}$ C**|Patrick McGlynn et.al.|[2602.15765](http://arxiv.org/abs/2602.15765)|null|
 |**2026-02-17**|**How to Train a Shallow Ensemble**|Moritz Schäfer et.al.|[2602.15747](http://arxiv.org/abs/2602.15747)|null|
 |**2026-02-17**|**Beyond Labels: Information-Efficient Human-in-the-Loop Learning using Ranking and Selection Queries**|Belén Martín-Urcelay et.al.|[2602.15738](http://arxiv.org/abs/2602.15738)|null|
@@ -1138,6 +1185,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Human-AI Collaboration in Large Language Model-Integrated Building Energy Management Systems: The Role of User Domain Knowledge and AI Literacy**|Wooyoung Jung et.al.|[2602.16140](http://arxiv.org/abs/2602.16140)|null|
+|**2026-02-17**|**MARLEM: A Multi-Agent Reinforcement Learning Simulation Framework for Implicit Cooperation in Decentralized Local Energy Markets**|Nelson Salazar-Pena et.al.|[2602.16063](http://arxiv.org/abs/2602.16063)|null|
 |**2026-02-17**|**A brief review of high-entropy oxides in solid oxide fuel cell applications**|Yueyuan Gu et.al.|[2602.15340](http://arxiv.org/abs/2602.15340)|null|
 |**2026-02-16**|**High-throughput screening and mechanistic insights into solid acid proton conductors**|Jonas Hänseroth et.al.|[2602.15268](http://arxiv.org/abs/2602.15268)|null|
 |**2026-02-16**|**Experimental characterization of the hierarchy of quantum correlations in top quark pairs**|Yoav Afik et.al.|[2602.15115](http://arxiv.org/abs/2602.15115)|null|
