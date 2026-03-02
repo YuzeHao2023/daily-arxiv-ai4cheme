@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**Bayesian inference of flame impulse responses**|Matthew Yoko et.al.|[2602.24101](http://arxiv.org/abs/2602.24101)|null|
+|**2026-02-27**|**Neural Diffusion Intensity Models for Point Process Data**|Xinlong Du et.al.|[2602.24083](http://arxiv.org/abs/2602.24083)|null|
+|**2026-02-27**|**HYCO: A Formalism for Hybrid-Cooperative PDE Modelling**|Lorenzo Liverani et.al.|[2602.23859](http://arxiv.org/abs/2602.23859)|null|
+|**2026-02-27**|**ReasonX: Declarative Reasoning on Explanations**|Laura State et.al.|[2602.23810](http://arxiv.org/abs/2602.23810)|null|
+|**2026-02-27**|**Multivariate Spatio-Temporal Neural Hawkes Processes**|Christopher Chukwuemeka et.al.|[2602.23629](http://arxiv.org/abs/2602.23629)|null|
+|**2026-02-26**|**Hyper-reduction methods for accelerating nonlinear finite element simulations: open source implementation and reproducible benchmarks**|Axel Larsson et.al.|[2602.23551](http://arxiv.org/abs/2602.23551)|null|
 |**2026-02-26**|**Uncertainty-Aware Calculation of Analytical Gradients of Matrix-Interpolatory Reduced-Order Models for Efficient Structural Optimization**|Marcel Warzecha et.al.|[2602.23314](http://arxiv.org/abs/2602.23314)|null|
 |**2026-02-26**|**Efficient Real-Time Adaptation of ROMs for Unsteady Flows Using Data Assimilation**|Ismaël Zighed et.al.|[2602.23188](http://arxiv.org/abs/2602.23188)|null|
 |**2026-02-26**|**Bound to Disagree: Generalization Bounds via Certifiable Surrogates**|Mathieu Bazinet et.al.|[2602.23128](http://arxiv.org/abs/2602.23128)|null|
@@ -273,6 +279,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**FaultXformer: A Transformer-Encoder Based Fault Classification and Location Identification model in PMU-Integrated Active Electrical Distribution System**|Kriti Thakur et.al.|[2602.24254](http://arxiv.org/abs/2602.24254)|null|
+|**2026-02-27**|**An Efficient Unsupervised Federated Learning Approach for Anomaly Detection in Heterogeneous IoT Networks**|Mohsen Tajgardan et.al.|[2602.24209](http://arxiv.org/abs/2602.24209)|null|
+|**2026-02-27**|**Data Driven Optimization of GPU efficiency for Distributed LLM Adapter Serving**|Ferran Agullo et.al.|[2602.24044](http://arxiv.org/abs/2602.24044)|null|
+|**2026-02-27**|**Steering and Rectifying Latent Representation Manifolds in Frozen Multi-modal LLMs for Video Anomaly Detection**|Zhaolin Cai et.al.|[2602.24021](http://arxiv.org/abs/2602.24021)|null|
+|**2026-02-27**|**Online Bootstrap Inference for the Trend of Nonstationary Time Series**|Thomas Nagler et.al.|[2602.23911](http://arxiv.org/abs/2602.23911)|null|
+|**2026-02-27**|**Hybrid Offline-Online Reinforcement Learning for Sensorless, High-Precision Force Regulation in Surgical Robotic Grasping**|Edoardo Fazzari et.al.|[2602.23870](http://arxiv.org/abs/2602.23870)|null|
+|**2026-02-27**|**From Static Benchmarks to Dynamic Protocol: Agent-Centric Text Anomaly Detection for Evaluating LLM Reasoning**|Seungdong Yoa et.al.|[2602.23729](http://arxiv.org/abs/2602.23729)|null|
+|**2026-02-27**|**Selective Denoising Diffusion Model for Time Series Anomaly Detection**|Kohei Obata et.al.|[2602.23662](http://arxiv.org/abs/2602.23662)|null|
+|**2026-02-27**|**Normalisation and Initialisation Strategies for Graph Neural Networks in Blockchain Anomaly Detection**|Dang Sy Duy et.al.|[2602.23599](http://arxiv.org/abs/2602.23599)|null|
+|**2026-02-27**|**Incremental dimension reduction for efficient and accurate visual anomaly detection**|Teng-Yok Lee et.al.|[2602.23595](http://arxiv.org/abs/2602.23595)|null|
 |**2026-02-26**|**Simple Models, Real Swimming: Digital Twins for Tendon-Driven Underwater Robots**|Mike Y. Michelis et.al.|[2602.23283](http://arxiv.org/abs/2602.23283)|null|
 |**2026-02-26**|**Marinarium: a New Arena to Bring Maritime Robotics Closer to Shore**|Ignacio Torroba et.al.|[2602.23053](http://arxiv.org/abs/2602.23053)|null|
 |**2026-02-26**|**SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling**|Camile Lendering et.al.|[2602.23013](http://arxiv.org/abs/2602.23013)|null|
@@ -562,6 +578,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**Discovery of a nearby radio relic in the low-mass, merging cluster Abell 4067**|Isaac Magolego et.al.|[2602.24206](http://arxiv.org/abs/2602.24206)|null|
+|**2026-02-27**|**Probing inflationary features with galaxy ultraviolet luminosity function observables**|Sandeep Kumar Acharya et.al.|[2602.23913](http://arxiv.org/abs/2602.23913)|null|
+|**2026-02-27**|**Dark Acoustic Oscillations and the Hubble Tension**|Mathias Garny et.al.|[2602.23895](http://arxiv.org/abs/2602.23895)|null|
+|**2026-02-27**|**Toward E2E Intelligence in 6G Networks: An AI Agent-Based RAN-CN Converged Intelligence Framework**|Youbin Han et.al.|[2602.23623](http://arxiv.org/abs/2602.23623)|null|
+|**2026-02-26**|**Rudder: Steering Prefetching in Distributed GNN Training using LLM Agents**|Aishwarya Sarkar et.al.|[2602.23556](http://arxiv.org/abs/2602.23556)|null|
 |**2026-02-26**|**Modeling Large-Scale Adversarial Swarm Engagements using Optimal Control**|Claire Walton et.al.|[2602.23323](http://arxiv.org/abs/2602.23323)|null|
 |**2026-02-26**|**Signal Temporal Logic Verification and Synthesis Using Deep Reachability Analysis and Layered Control Architecture**|Joonwon Choi et.al.|[2602.23313](http://arxiv.org/abs/2602.23313)|null|
 |**2026-02-26**|**Physics Informed Viscous Value Representations**|Hrishikesh Viswanath et.al.|[2602.23280](http://arxiv.org/abs/2602.23280)|null|
@@ -772,6 +793,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**Exploring the extremes: atomic basis for multi-elemental materials science under complex thermodynamic conditions**|Anton Bochkarev et.al.|[2602.23489](http://arxiv.org/abs/2602.23489)|null|
 |**2026-02-25**|**Oxygen permeability and stability in the entropy-stabilized Co-based Perovskite oxygen permeable membranes**|Zaichen Xiang et.al.|[2602.21511](http://arxiv.org/abs/2602.21511)|null|
 |**2026-02-10**|**AgentCAT: An LLM Agent for Extracting and Analyzing Catalytic Reaction Data from Chemical Engineering Literature**|Wei Yang et.al.|[2602.18479](http://arxiv.org/abs/2602.18479)|null|
 |**2026-02-16**|**Forked Physics Informed Neural Networks for Coupled Systems of Differential equations**|Zhao-Wei Wang et.al.|[2602.14554](http://arxiv.org/abs/2602.14554)|null|
@@ -801,6 +823,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**Joint Geometric and Trajectory Consistency Learning for One-Step Real-World Super-Resolution**|Chengyan Deng et.al.|[2602.24240](http://arxiv.org/abs/2602.24240)|null|
+|**2026-02-27**|**A Mixed Diet Makes DINO An Omnivorous Vision Encoder**|Rishabh Kabra et.al.|[2602.24181](http://arxiv.org/abs/2602.24181)|null|
+|**2026-02-27**|**Fixed Anchors Are Not Enough: Dynamic Retrieval and Persistent Homology for Dataset Distillation**|Muquan Li et.al.|[2602.24144](http://arxiv.org/abs/2602.24144)|null|
+|**2026-02-27**|**Task Complexity Matters: An Empirical Study of Reasoning in LLMs for Sentiment Analysis**|Donghao Huang et.al.|[2602.24060](http://arxiv.org/abs/2602.24060)|null|
+|**2026-02-27**|**Data Driven Optimization of GPU efficiency for Distributed LLM Adapter Serving**|Ferran Agullo et.al.|[2602.24044](http://arxiv.org/abs/2602.24044)|null|
+|**2026-02-27**|**Footprint-Guided Exemplar-Free Continual Histopathology Report Generation**|Pratibha Kumari et.al.|[2602.23817](http://arxiv.org/abs/2602.23817)|null|
+|**2026-02-27**|**ProductResearch: Training E-Commerce Deep Research Agents via Multi-Agent Synthetic Trajectory Distillation**|Jiangyuan Wang et.al.|[2602.23716](http://arxiv.org/abs/2602.23716)|null|
+|**2026-02-27**|**Synthetic Data Powers Product Retrieval for Long-tail Knowledge-Intensive Queries in E-commerce Search**|Gui Ling et.al.|[2602.23620](http://arxiv.org/abs/2602.23620)|null|
+|**2026-02-27**|**PDF: PUF-based DNN Fingerprinting for Knowledge Distillation Traceability**|Ning Lyu et.al.|[2602.23587](http://arxiv.org/abs/2602.23587)|null|
+|**2026-02-27**|**Dynamics of Learning under User Choice: Overspecialization and Peer-Model Probing**|Adhyyan Narang et.al.|[2602.23565](http://arxiv.org/abs/2602.23565)|null|
 |**2026-02-26**|**VGG-T $^3$ : Offline Feed-Forward 3D Reconstruction at Scale**|Sven Elflein et.al.|[2602.23361](http://arxiv.org/abs/2602.23361)|null|
 |**2026-02-26**|**A Dataset is Worth 1 MB**|Elad Kimchi Shoshani et.al.|[2602.23358](http://arxiv.org/abs/2602.23358)|null|
 |**2026-02-26**|**ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation**|Ayush Roy et.al.|[2602.23295](http://arxiv.org/abs/2602.23295)|null|
@@ -1016,6 +1048,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**Mechanism-Resolved PFM of Ferroionic and Ferroelectric Responses in Thickness-Gradient Hf0.5Zr0.5O2 Libraries**|Yu Liu et.al.|[2602.24216](http://arxiv.org/abs/2602.24216)|null|
+|**2026-02-27**|**Duality of Theoretical Approaches to Understand the Electrical Double Layer in Concentrated Electrolytes**|Zachary A. H. Goodwin et.al.|[2602.24205](http://arxiv.org/abs/2602.24205)|null|
+|**2026-02-26**|**Band Renormalization in Metal-Organic Framework/Au(111) Epitaxial Heterostructures**|Xiaoqing Yuan et.al.|[2602.23441](http://arxiv.org/abs/2602.23441)|null|
 |**2026-02-26**|**Chalcogen Impurity Barriers in 2D Systems via Semi-Empirical/Machine Learning Modeling: A Survey over 4000 Materials**|M. L. Pereira Junior et.al.|[2602.22978](http://arxiv.org/abs/2602.22978)|null|
 |**2026-02-26**|**Weak dual symmetries of two color QCD phase diagram**|K. G. Klimenko et.al.|[2602.22820](http://arxiv.org/abs/2602.22820)|null|
 |**2026-02-25**|**MBD-ML: Many-body dispersion from machine learning for molecules and materials**|Evgeny Moerman et.al.|[2602.22086](http://arxiv.org/abs/2602.22086)|null|
@@ -1180,6 +1215,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**Time Series Foundation Models as Strong Baselines in Transportation Forecasting: A Large-Scale Benchmark Analysis**|Javier Pulido et.al.|[2602.24238](http://arxiv.org/abs/2602.24238)|null|
+|**2026-02-27**|**Adaptive Combinatorial Experimental Design: Pareto Optimality for Decision-Making and Inference**|Hongrui Xie et.al.|[2602.24231](http://arxiv.org/abs/2602.24231)|null|
+|**2026-02-27**|**BLISSNet: Deep Operator Learning for Fast and Accurate Flow Reconstruction from Sparse Sensor Measurements**|Maksym Veremchuk et.al.|[2602.24228](http://arxiv.org/abs/2602.24228)|null|
+|**2026-02-27**|**Flow-Based Density Ratio Estimation for Intractable Distributions with Applications in Genomics**|Egor Antipov et.al.|[2602.24201](http://arxiv.org/abs/2602.24201)|null|
+|**2026-02-27**|**Uncertainty Quantification for Multimodal Large Language Models with Incoherence-adjusted Semantic Volume**|Gregory Kang Ruey Lau et.al.|[2602.24195](http://arxiv.org/abs/2602.24195)|null|
+|**2026-02-27**|**Bayesian inference of flame impulse responses**|Matthew Yoko et.al.|[2602.24101](http://arxiv.org/abs/2602.24101)|null|
+|**2026-02-27**|**RewardUQ: A Unified Framework for Uncertainty-Aware Reward Models**|Daniel Yang et.al.|[2602.24040](http://arxiv.org/abs/2602.24040)|null|
+|**2026-02-27**|**A Unified and Computationally Efficient Non-Gaussian Statistical Modeling Framework**|David Bolin et.al.|[2602.23987](http://arxiv.org/abs/2602.23987)|null|
+|**2026-02-27**|**Online Bootstrap Inference for the Trend of Nonstationary Time Series**|Thomas Nagler et.al.|[2602.23911](http://arxiv.org/abs/2602.23911)|null|
+|**2026-02-27**|**Operationalizing Longitudinal Causal Discovery Under Real-World Workflow Constraints**|Tadahisa Okuda et.al.|[2602.23800](http://arxiv.org/abs/2602.23800)|null|
 |**2026-02-26**|**Conformalized Neural Networks for Federated Uncertainty Quantification under Dual Heterogeneity**|Quang-Huy Nguyen et.al.|[2602.23296](http://arxiv.org/abs/2602.23296)|null|
 |**2026-02-26**|**An Active Learning Framework for Data-Efficient, Human-in-the-Loop Enzyme Function Prediction**|Ashley Babjac et.al.|[2602.23269](http://arxiv.org/abs/2602.23269)|null|
 |**2026-02-26**|**Efficient Real-Time Adaptation of ROMs for Unsteady Flows Using Data Assimilation**|Ismaël Zighed et.al.|[2602.23188](http://arxiv.org/abs/2602.23188)|null|
@@ -1392,6 +1437,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**Stable and Renewable: Assessing the Reliability of a Fully Renewable European Energy System**|David Franzmann et.al.|[2602.23891](http://arxiv.org/abs/2602.23891)|null|
+|**2026-02-26**|**A high-performance cobalt-free cathode for proton-conducting solid oxide fuel cells via multi-element doping in Sr2Fe2O6**|Le Zhou et.al.|[2602.23399](http://arxiv.org/abs/2602.23399)|null|
 |**2026-02-24**|**Improving Spatial Allocation for Energy System Coupling with Graph Neural Networks**|Xuanhao Mu et.al.|[2602.22249](http://arxiv.org/abs/2602.22249)|null|
 |**2026-02-25**|**Applying a Random-Key Optimizer on Mixed Integer Programs**|Antonio A. Chaves et.al.|[2602.22173](http://arxiv.org/abs/2602.22173)|null|
 |**2026-02-24**|**KAN-Koopman Based Rapid Detection Of Battery Thermal Anomalies With Diagnostics Guarantees**|Sanchita Ghosh et.al.|[2602.21155](http://arxiv.org/abs/2602.21155)|null|
