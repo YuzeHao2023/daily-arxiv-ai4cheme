@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.03.11
+## Updated on 2026.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Process Modeling & System Identification
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**Integrated Online Monitoring and Adaption of Process Model Predictive Controllers**|Samuel Mallick et.al.|[2603.12187](http://arxiv.org/abs/2603.12187)|null|
+|**2026-03-12**|**Flowcean - Model Learning for Cyber-Physical Systems**|Maximilian Schmidt et.al.|[2603.12015](http://arxiv.org/abs/2603.12015)|null|
+|**2026-03-12**|**Reduced Order Model for Broadband Superabsorption of Waves by Metascreens**|Habib Ammari et.al.|[2603.11962](http://arxiv.org/abs/2603.11962)|null|
+|**2026-03-12**|**Bayesian Model Calibration with Integrated Discrepancy: Addressing Inexact Dislocation Dynamics Models**|Liam Myhill et.al.|[2603.11960](http://arxiv.org/abs/2603.11960)|null|
+|**2026-03-12**|**Learn Structure, Adapt on the Fly: Multi-Scale Residual Learning and Online Adaptation for Aerial Manipulators**|Samaksh Ujjawal et.al.|[2603.11638](http://arxiv.org/abs/2603.11638)|null|
+|**2026-03-12**|**Agentic AI for Embodied-enhanced Beam Prediction in Low-Altitude Economy Networks**|Min Hao et.al.|[2603.11392](http://arxiv.org/abs/2603.11392)|null|
+|**2026-03-11**|**Ghost Framing Theory: Exploring the role of generative AI in new venture rhetorical legitimation**|Greg Nyilasy et.al.|[2603.11384](http://arxiv.org/abs/2603.11384)|null|
+|**2026-03-11**|**Ill-Conditioning in Dictionary-Based Dynamic-Equation Learning: A Systems Biology Case Study**|Yuxiang Feng et.al.|[2603.11330](http://arxiv.org/abs/2603.11330)|null|
+|**2026-03-11**|**Bayesian Optimization of Partially Known Systems using Hybrid Models**|Eike Cramer et.al.|[2603.11199](http://arxiv.org/abs/2603.11199)|null|
+|**2026-03-11**|**Factorized Neural Implicit DMD for Parametric Dynamics**|Siyuan Chen et.al.|[2603.10995](http://arxiv.org/abs/2603.10995)|null|
 |**2026-03-10**|**NanoBench: A Multi-Task Benchmark Dataset for Nano-Quadrotor System Identification, Control, and State Estimation**|Syed Izzat Ullah et.al.|[2603.09908](http://arxiv.org/abs/2603.09908)|null|
 |**2026-03-10**|**Materials Acceleration Platform for Electrochemistry (MAP-E): a Platform for Autonomous Electrochemistry**|Daniel Persaud et.al.|[2603.09845](http://arxiv.org/abs/2603.09845)|null|
 |**2026-03-10**|**A Unified Hierarchical Multi-Task Multi-Fidelity Framework for Data-Efficient Surrogate Modeling in Manufacturing**|Manan Mehta et.al.|[2603.09842](http://arxiv.org/abs/2603.09842)|null|
@@ -326,6 +336,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**Single Pixel Image Classification using an Ultrafast Digital Light Projector**|Aisha Kanwal et.al.|[2603.12036](http://arxiv.org/abs/2603.12036)|null|
+|**2026-03-12**|**Sim-to-reality adaptation for Deep Reinforcement Learning applied to an underwater docking application**|Alaaeddine Chaarani et.al.|[2603.12020](http://arxiv.org/abs/2603.12020)|null|
+|**2026-03-12**|**Decentralized Orchestration Architecture for Fluid Computing: A Secure Distributed AI Use Case**|Diego Cajaraville-Aboy et.al.|[2603.12001](http://arxiv.org/abs/2603.12001)|null|
+|**2026-03-12**|**The Network That Thinks: Kraken* and the Dawn of Cognitive 6G**|Ian F. Akyildiz et.al.|[2603.11920](http://arxiv.org/abs/2603.11920)|null|
+|**2026-03-12**|**Anomaly detection in time-series via inductive biases in the latent space of conditional normalizing flows**|David Baumgartner et.al.|[2603.11756](http://arxiv.org/abs/2603.11756)|null|
+|**2026-03-12**|**CINDI: Conditional Imputation and Noisy Data Integrity with Flows in Power Grid Data**|David Baumgartner et.al.|[2603.11745](http://arxiv.org/abs/2603.11745)|null|
+|**2026-03-12**|**High-fidelity level-set modeling of polycrystalline grain growth**|Tianchi Li et.al.|[2603.11608](http://arxiv.org/abs/2603.11608)|null|
+|**2026-03-12**|**Articulat3D: Reconstructing Articulated Digital Twins From Monocular Videos with Geometric and Motion Constraints**|Lijun Guo et.al.|[2603.11606](http://arxiv.org/abs/2603.11606)|null|
+|**2026-03-12**|**Gen-Fab: A Variation-Aware Generative Model for Predicting Fabrication Variations in Nanophotonic Devices**|Rambod Azimi et.al.|[2603.11505](http://arxiv.org/abs/2603.11505)|null|
+|**2026-03-12**|**Slack More, Predict Better: Proximal Relaxation for Probabilistic Latent Variable Model-based Soft Sensors**|Zehua Zou et.al.|[2603.11473](http://arxiv.org/abs/2603.11473)|null|
 |**2026-03-10**|**Modeling structure and credit risk of the economy: a multilayer bank-firm network approach**|Soumen Majhi et.al.|[2603.09854](http://arxiv.org/abs/2603.09854)|null|
 |**2026-03-10**|**TIMID: Time-Dependent Mistake Detection in Videos of Robot Executions**|Nerea Gallego et.al.|[2603.09782](http://arxiv.org/abs/2603.09782)|null|
 |**2026-03-10**|**Supernova scores for active anomaly detection**|Semenikhin T. A. et.al.|[2603.09762](http://arxiv.org/abs/2603.09762)|null|
@@ -676,6 +696,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**Integrated Online Monitoring and Adaption of Process Model Predictive Controllers**|Samuel Mallick et.al.|[2603.12187](http://arxiv.org/abs/2603.12187)|null|
+|**2026-03-12**|**ComFree-Sim: A GPU-Parallelized Analytical Contact Physics Engine for Scalable Contact-Rich Robotics Simulation and Control**|Chetan Borse et.al.|[2603.12185](http://arxiv.org/abs/2603.12185)|null|
+|**2026-03-12**|**The Targeted Standard Siren Cosmology with Pulsar Timing Arrays**|Shubhit Sardana et.al.|[2603.12168](http://arxiv.org/abs/2603.12168)|null|
+|**2026-03-12**|**Operator Splitting, Policy Iteration, and Machine Learning for Stochastic Optimal Control**|Alain Bensoussan et.al.|[2603.12167](http://arxiv.org/abs/2603.12167)|null|
+|**2026-03-12**|**Optimal control with flag qubits**|Liang-Xu Xie et.al.|[2603.12162](http://arxiv.org/abs/2603.12162)|null|
+|**2026-03-12**|**Flight through Narrow Gaps with Morphing-Wing Drones**|Julius Wanner et.al.|[2603.12059](http://arxiv.org/abs/2603.12059)|null|
+|**2026-03-12**|**Gradient-robustness in optimization subject to stationary Navier-Stokes equations**|Constanze Neutsch et.al.|[2603.12028](http://arxiv.org/abs/2603.12028)|null|
+|**2026-03-12**|**What is a minimum work transition in stochastic thermodynamics?**|Paolo Muratore-Ginanneschi et.al.|[2603.11995](http://arxiv.org/abs/2603.11995)|null|
+|**2026-03-12**|**Robust Parametric Microgrid Dispatch Under Endogenous Uncertainty of Operation- and Temperature-Dependent Battery Degradation**|Rui Xie et.al.|[2603.11978](http://arxiv.org/abs/2603.11978)|null|
+|**2026-03-12**|**940-nm VCSELs grown by molecular beam epitaxy on Ge(001)**|Karim Ben Saddik et.al.|[2603.11902](http://arxiv.org/abs/2603.11902)|null|
 |**2026-03-10**|**Qubit reset beyond the Born-Markov approximation: optimal driving to overcome polaron formation**|Carlos Ortega-Taberner et.al.|[2603.09914](http://arxiv.org/abs/2603.09914)|null|
 |**2026-03-10**|**Optimal Control in Age-Structured Populations: A Comparison of Rate-Control and Effort-Control**|Jiguang Yu et.al.|[2603.09767](http://arxiv.org/abs/2603.09767)|null|
 |**2026-03-10**|**WVA: A Global Optimization Control Plane for llmd**|Abhishek Malvankar et.al.|[2603.09730](http://arxiv.org/abs/2603.09730)|null|
@@ -946,6 +976,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**Chem4DLLM: 4D Multimodal LLMs for Chemical Dynamics Understanding**|Xinyu Li et.al.|[2603.11924](http://arxiv.org/abs/2603.11924)|null|
+|**2026-03-11**|**ATP Level and Phosphorylation Free Energy Regulate Trigger-Wave Speed and Critical Nucleus Size in Cellular Biochemical Systems**|Jianwei Li et.al.|[2603.10669](http://arxiv.org/abs/2603.10669)|null|
 |**2026-03-09**|**Tau-BNO: Brain Neural Operator for Tau Transport Model**|Nuutti Barron et.al.|[2603.08108](http://arxiv.org/abs/2603.08108)|null|
 |**2026-03-09**|**LegONet: Plug-and-Play Structure-Preserving Neural Operator Blocks for Compositional PDE Learning**|Jiahao Zhang et.al.|[2603.07882](http://arxiv.org/abs/2603.07882)|null|
 |**2026-03-06**|**Dynamic Chunking Diffusion Transformer**|Akash Haridas et.al.|[2603.06351](http://arxiv.org/abs/2603.06351)|null|
@@ -983,6 +1015,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse**|Yushi Bai et.al.|[2603.12201](http://arxiv.org/abs/2603.12201)|null|
+|**2026-03-12**|**Long-Context Encoder Models for Polish Language Understanding**|Sławomir Dadas et.al.|[2603.12191](http://arxiv.org/abs/2603.12191)|null|
+|**2026-03-12**|**FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance**|Quanhao Li et.al.|[2603.12146](http://arxiv.org/abs/2603.12146)|null|
+|**2026-03-12**|**Hoi3DGen: Generating High-Quality Human-Object-Interactions in 3D**|Agniv Sharma et.al.|[2603.12126](http://arxiv.org/abs/2603.12126)|null|
+|**2026-03-12**|**Climbing the Clifford Hierarchy**|Luca Bastioni et.al.|[2603.12088](http://arxiv.org/abs/2603.12088)|null|
+|**2026-03-12**|**XSkill: Continual Learning from Experience and Skills in Multimodal Agents**|Guanyu Jiang et.al.|[2603.12056](http://arxiv.org/abs/2603.12056)|null|
+|**2026-03-12**|**Continual Learning with Vision-Language Models via Semantic-Geometry Preservation**|Chiyuan He et.al.|[2603.12055](http://arxiv.org/abs/2603.12055)|null|
+|**2026-03-12**|**Learning Visuomotor Policy for Multi-Robot Laser Tag Game**|Kai Li et.al.|[2603.11980](http://arxiv.org/abs/2603.11980)|null|
+|**2026-03-12**|**PicoSAM3: Real-Time In-Sensor Region-of-Interest Segmentation**|Pietro Bonazzi et.al.|[2603.11917](http://arxiv.org/abs/2603.11917)|null|
+|**2026-03-12**|**InSpatio-WorldFM: An Open-Source Real-Time Generative Frame Model**|InSpatio Team et.al.|[2603.11911](http://arxiv.org/abs/2603.11911)|null|
 |**2026-03-10**|**Capillary filling of star polymer melts in nanopores**|Jianwei Zhang et.al.|[2603.09788](http://arxiv.org/abs/2603.09788)|null|
 |**2026-03-10**|**Understanding the impact of binary mass transfer in the accretor's measurable parameters**|Magdalena Vilaxa-Campos et.al.|[2603.09776](http://arxiv.org/abs/2603.09776)|null|
 |**2026-03-10**|**A Multi-Prototype-Guided Federated Knowledge Distillation Approach in AI-RAN Enabled Multi-Access Edge Computing System**|Luyao Zou et.al.|[2603.09727](http://arxiv.org/abs/2603.09727)|null|
@@ -1268,13 +1310,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**PolyCrysDiff: Controllable Generation of Three-Dimensional Computable Polycrystalline Material Structures**|Chi Chen et.al.|[2603.11695](http://arxiv.org/abs/2603.11695)|null|
 |**2026-03-10**|**Materials Acceleration Platform for Electrochemistry (MAP-E): a Platform for Autonomous Electrochemistry**|Daniel Persaud et.al.|[2603.09845](http://arxiv.org/abs/2603.09845)|null|
 |**2026-03-10**|**AI-driven Inverse Design of Complex Oxide Thin Films for Semiconductor Devices**|Bonwook Gu et.al.|[2603.09744](http://arxiv.org/abs/2603.09744)|null|
 |**2026-03-08**|**Machine Learning for Electrode Materials: Property Prediction via Composition**|Hao Wu et.al.|[2603.07805](http://arxiv.org/abs/2603.07805)|null|
 |**2026-03-07**|**Bulk OsO2 Single Crystals: Superior Catalysts for Water Oxidation**|Guojian Zhao et.al.|[2603.07009](http://arxiv.org/abs/2603.07009)|null|
 |**2026-03-07**|**Universal electronic manifolds for extrapolative alloy discovery**|Pranoy Ray et.al.|[2603.06953](http://arxiv.org/abs/2603.06953)|null|
 |**2026-03-06**|**Offline Materials Optimization with CliqueFlowmer**|Jakub Grudzien Kuba et.al.|[2603.06082](http://arxiv.org/abs/2603.06082)|null|
-|**2026-03-06**|**Lost in Translation: Simulation-Informed Bayesian Inference Improves Understanding of Molecular Motion From Neutron Scattering**|Harry Richardson et.al.|[2603.06080](http://arxiv.org/abs/2603.06080)|null|
+|**2026-03-12**|**Lost in Translation: Simulation-Informed Bayesian Inference Improves Understanding of Molecular Motion From Neutron Scattering**|Harry Richardson et.al.|[2603.06080](http://arxiv.org/abs/2603.06080)|null|
 |**2026-03-05**|**Identification of an Unreported Structure Type in GdNiSn4 and Its Implications for Materials Prediction**|Xin Zhang et.al.|[2603.05613](http://arxiv.org/abs/2603.05613)|null|
 |**2026-03-05**|**Escaping the Hydrolysis Trap: An Agentic Workflow for Inverse Design of Durable Photocatalytic Covalent Organic Frameworks**|Iman Peivaste et.al.|[2603.05188](http://arxiv.org/abs/2603.05188)|null|
 |**2026-03-05**|**Advantage of flexible catalysis for entanglement and quantum thermodynamics**|Jingsong Ao et.al.|[2603.05146](http://arxiv.org/abs/2603.05146)|null|
@@ -1371,6 +1414,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**Technology configurations for decarbonizing residential heat supply through district heating and implications for the electricity network**|Christian Doh Dinga et.al.|[2603.12202](http://arxiv.org/abs/2603.12202)|null|
+|**2026-03-12**|**Towards heterogeneous parallelism for SPHinXsys**|Xiangyu Hu et.al.|[2603.11868](http://arxiv.org/abs/2603.11868)|null|
+|**2026-03-12**|**CFD-HAR: User-controllable Privacy through Conditional Feature Disentanglement**|Alex Gn et.al.|[2603.11526](http://arxiv.org/abs/2603.11526)|null|
+|**2026-03-11**|**Integral analysis based diagnostics of turbulence model errors in skin friction**|Shyam S. Nair et.al.|[2603.11334](http://arxiv.org/abs/2603.11334)|null|
+|**2026-03-11**|**ForwardFlow: Simulation only statistical inference using deep learning**|Stefan Böhringer et.al.|[2603.10991](http://arxiv.org/abs/2603.10991)|null|
+|**2026-03-11**|**Too Vivid to Be Real? Benchmarking and Calibrating Generative Color Fidelity**|Zhengyao Fang et.al.|[2603.10990](http://arxiv.org/abs/2603.10990)|null|
+|**2026-03-11**|**Production of Gravitational Waves in the Early Universe From turbulence triggered by first-order phase transitions**|Yashmitha Kumaran et.al.|[2603.10855](http://arxiv.org/abs/2603.10855)|null|
+|**2026-03-11**|**Efficient design of continuation methods for hyperbolic transport problems in porous media**|Peter von Schultzendorff et.al.|[2603.10730](http://arxiv.org/abs/2603.10730)|null|
+|**2026-03-11**|**Thermodynamic Non-Uniformities Behind Incident and Reflected Shocks in a Single-Diaphragm Shock Tube**|Touqeer Anwar Kashif et.al.|[2603.10706](http://arxiv.org/abs/2603.10706)|null|
+|**2026-03-11**|**A mapping-based projection of detailed kinetics uncertainty onto reduced manifolds**|Vansh Sharma et.al.|[2603.10381](http://arxiv.org/abs/2603.10381)|null|
 |**2026-03-10**|**Immiscible two-phase flow in porous media: a statistical mechanics approach**|Alex Hansen et.al.|[2603.09658](http://arxiv.org/abs/2603.09658)|null|
 |**2026-03-10**|**$Λ$ effect in rotating hydrodynamic convection**|P. J. Käpylä et.al.|[2603.09328](http://arxiv.org/abs/2603.09328)|null|
 |**2026-03-09**|**Improving boundary-layer separation prediction by an IDDES turbulence model using a pressure-gradient sensor**|Benjamin S. Savino et.al.|[2603.08875](http://arxiv.org/abs/2603.08875)|null|
@@ -1475,6 +1528,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**Structure Selection for Fairness-Constrained Differentially Private Data Synthesis**|Naeim Ghahramanpour et.al.|[2603.12112](http://arxiv.org/abs/2603.12112)|null|
+|**2026-03-12**|**Breaching the Barrier: Transition Pathways of Coral Larval Connectivity Across the Eastern Pacific**|Maria Olascoaga et.al.|[2603.12111](http://arxiv.org/abs/2603.12111)|null|
+|**2026-03-12**|**Wasserstein Gradient Flows for Batch Bayesian Optimal Experimental Design**|Louis Sharrock et.al.|[2603.12102](http://arxiv.org/abs/2603.12102)|null|
+|**2026-03-12**|**Frequentist Consistency of Prior-Data Fitted Networks for Causal Inference**|Valentyn Melnychuk et.al.|[2603.12037](http://arxiv.org/abs/2603.12037)|null|
+|**2026-03-12**|**Efficient Generative Modeling with Unitary Matrix Product States Using Riemannian Optimization**|Haotong Duan et.al.|[2603.12026](http://arxiv.org/abs/2603.12026)|null|
+|**2026-03-12**|**Deep Learning-Based Metamodeling of Nonlinear Stochastic Dynamic Systems under Parametric and Predictive Uncertainty**|Haimiti Atila et.al.|[2603.12012](http://arxiv.org/abs/2603.12012)|null|
+|**2026-03-12**|**CHiL(L)Grader: Calibrated Human-in-the-Loop Short-Answer Grading**|Pranav Raikote et.al.|[2603.11957](http://arxiv.org/abs/2603.11957)|null|
+|**2026-03-12**|**EnTransformer: A Deep Generative Transformer for Multivariate Probabilistic Forecasting**|Rajdeep Pathak et.al.|[2603.11909](http://arxiv.org/abs/2603.11909)|null|
+|**2026-03-12**|**Real-time Tomography-based Bayesian Inference from TCV Bolometry Data**|D. Hamm et.al.|[2603.11856](http://arxiv.org/abs/2603.11856)|null|
+|**2026-03-12**|**Revisiting early afterglows of gamma-ray bursts with finite-thickness ejecta: Implications from XRF 080330 and GRB 080710**|Kaori Obayashi et.al.|[2603.11718](http://arxiv.org/abs/2603.11718)|null|
 |**2026-03-10**|**Subspace decomposition with defect diffusion coefficient**|Dilini Kolombage et.al.|[2603.09924](http://arxiv.org/abs/2603.09924)|null|
 |**2026-03-10**|**A Unified Hierarchical Multi-Task Multi-Fidelity Framework for Data-Efficient Surrogate Modeling in Manufacturing**|Manan Mehta et.al.|[2603.09842](http://arxiv.org/abs/2603.09842)|null|
 |**2026-03-10**|**A Regularized Ensemble Kalman Filter for Stochastic Phase Field Models of Brittle Fracture**|Lucas Hermann et.al.|[2603.09728](http://arxiv.org/abs/2603.09728)|null|
@@ -1753,6 +1816,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**EnTransformer: A Deep Generative Transformer for Multivariate Probabilistic Forecasting**|Rajdeep Pathak et.al.|[2603.11909](http://arxiv.org/abs/2603.11909)|null|
+|**2026-03-11**|**A Machine Learning-Enhanced Hopf-Cole Formulation for Nonlinear Gas Flow in Porous Media**|V. S. Maduru et.al.|[2603.11250](http://arxiv.org/abs/2603.11250)|null|
 |**2026-03-10**|**Long-Run Conditional Value-at-Risk Reinforcement Learning**|Qixin Wang et.al.|[2603.09734](http://arxiv.org/abs/2603.09734)|null|
 |**2026-03-10**|**Well Log-Guided Synthesis of Subsurface Images from Sparse Petrography Data Using cGANs**|Ali Sadeghkhani et.al.|[2603.09651](http://arxiv.org/abs/2603.09651)|null|
 |**2026-03-10**|**Dynamic Stability Assessment of Grid-Connected Data Centers Powered by Small Modular Reactors**|Sobhan Badakhshan et.al.|[2603.09110](http://arxiv.org/abs/2603.09110)|null|
