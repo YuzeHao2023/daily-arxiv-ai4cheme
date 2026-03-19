@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.03.18
+## Updated on 2026.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Process Modeling & System Identification
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**RHYME-XT: A Neural Operator for Spatiotemporal Control Systems**|Marijn Ruiter et.al.|[2603.17867](http://arxiv.org/abs/2603.17867)|null|
+|**2026-03-18**|**Koopman Generator Decomposition for Port-Hamiltonian System**|Victor M. Preciado et.al.|[2603.17849](http://arxiv.org/abs/2603.17849)|null|
+|**2026-03-18**|**CodeT5-RNN: Reinforcing Contextual Embeddings for Enhanced Code Comprehension**|Md Mostafizer Rahman et.al.|[2603.17821](http://arxiv.org/abs/2603.17821)|null|
+|**2026-03-18**|**Data-Driven Predictive Control for Stochastic Descriptor Systems: An Innovation-Based Approach Handling Non-Causal Dynamics**|Yunxiang Ma et.al.|[2603.17780](http://arxiv.org/abs/2603.17780)|null|
+|**2026-03-18**|**Towards Infinitely Long Neural Simulations: Self-Refining Neural Surrogate Models for Dynamical Systems**|Qi Liu et.al.|[2603.17750](http://arxiv.org/abs/2603.17750)|null|
+|**2026-03-18**|**On the validity limits of the parametrisation method for invariant manifolds: an assessment of practical criteria for vibrating systems**|André de Figueiredo Stabile et.al.|[2603.17611](http://arxiv.org/abs/2603.17611)|null|
+|**2026-03-18**|**End-to-end data-driven prediction of urban airflow and pollutant dispersion**|Nishant Kumar et.al.|[2603.17606](http://arxiv.org/abs/2603.17606)|null|
+|**2026-03-18**|**H Infinity Robust Control for Gust Load Alleviation of Geometrically Nonlinear Flexible Aircraft**|Nikolaos D. Tantaroudas et.al.|[2603.17443](http://arxiv.org/abs/2603.17443)|null|
+|**2026-03-18**|**Data-driven model order reduction for structures with piecewise linear nonlinearity using dynamic mode decomposition**|Akira Saito et.al.|[2603.17423](http://arxiv.org/abs/2603.17423)|null|
+|**2026-03-18**|**Physics-informed Deep Mixture-of-Koopmans Vehicle Dynamics Model with Dual-branch Encoder for Distributed Electric-drive Trucks**|Jinyu Miao et.al.|[2603.17416](http://arxiv.org/abs/2603.17416)|null|
 |**2026-03-17**|**Exponential stability of data-driven nonlinear MPC based on input/output models**|Lea Bold et.al.|[2603.16808](http://arxiv.org/abs/2603.16808)|null|
 |**2026-03-17**|**Novelty-Driven Target-Space Discovery in Automated Electron and Scanning Probe Microscopy**|Utkarsh Pratiush et.al.|[2603.16715](http://arxiv.org/abs/2603.16715)|null|
 |**2026-03-17**|**What if Pinocchio Were a Reinforcement Learning Agent: A Normative End-to-End Pipeline**|Benoît Alcaraz et.al.|[2603.16651](http://arxiv.org/abs/2603.16651)|null|
@@ -366,6 +376,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Noise-Aware Misclassification Attack Detection in Collaborative DNN Inference**|Shima Yousefi et.al.|[2603.17914](http://arxiv.org/abs/2603.17914)|null|
+|**2026-03-18**|**RangeAD: Fast On-Model Anomaly Detection**|Luca Hinkamp et.al.|[2603.17795](http://arxiv.org/abs/2603.17795)|null|
+|**2026-03-18**|**Multi-Source Human-in-the-Loop Digital Twin Testbed for Connected and Autonomous Vehicles in Mixed Traffic Flow**|Jianghong Dong et.al.|[2603.17751](http://arxiv.org/abs/2603.17751)|null|
+|**2026-03-18**|**From Virtual Environments to Real-World Trials: Emerging Trends in Autonomous Driving**|A. Humnabadkar et.al.|[2603.17714](http://arxiv.org/abs/2603.17714)|null|
+|**2026-03-18**|**Unsupervised Symbolic Anomaly Detection**|Md Maruf Hossain et.al.|[2603.17575](http://arxiv.org/abs/2603.17575)|null|
+|**2026-03-18**|**AdapTS: Lightweight Teacher-Student Approach for Multi-Class and Continual Visual Anomaly Detection**|Manuel Barusco et.al.|[2603.17530](http://arxiv.org/abs/2603.17530)|null|
+|**2026-03-18**|**A Tutorial on Learning-Based Radio Map Construction: Data, Paradigms, and Physics-Awarenes**|Xiucheng Wang et.al.|[2603.17499](http://arxiv.org/abs/2603.17499)|null|
+|**2026-03-18**|**From Optimizable to Interactable: Mixed Digital Twin-Empowered Testing of Vehicle-Infrastructure Cooperation Systems**|Jianghong Dong et.al.|[2603.17497](http://arxiv.org/abs/2603.17497)|null|
+|**2026-03-18**|**From Digital Twins to World Models:Opportunities, Challenges, and Applications for Mobile Edge General Intelligence**|Jie Zheng et.al.|[2603.17420](http://arxiv.org/abs/2603.17420)|null|
+|**2026-03-18**|**Real-Time, Crowdsourcing-Enhanced Forecasting of Building Functionality During Urban Floods**|Lei Xie et.al.|[2603.17340](http://arxiv.org/abs/2603.17340)|null|
 |**2026-03-17**|**BUSSARD: Normalizing Flows for Bijective Universal Scene-Specific Anomalous Relationship Detection**|Melissa Schween et.al.|[2603.16645](http://arxiv.org/abs/2603.16645)|null|
 |**2026-03-17**|**On the Transfer of Collinearity to Computer Vision**|Frederik Beuth et.al.|[2603.16592](http://arxiv.org/abs/2603.16592)|null|
 |**2026-03-17**|**Bridging the Simulation-to-Reality Gap in Electron Microscope Calibration via VAE-EM Estimation**|Jilles S. van Hulst et.al.|[2603.16549](http://arxiv.org/abs/2603.16549)|null|
@@ -752,6 +772,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**A Convex Formulation of the Multi-Commodity Dynamic Traffic Assignment**|Davide Sipione et.al.|[2603.17981](http://arxiv.org/abs/2603.17981)|null|
+|**2026-03-18**|**Certainty-equivalent adaptive MPC for uncertain nonlinear systems**|Johannes Köhler et.al.|[2603.17843](http://arxiv.org/abs/2603.17843)|null|
+|**2026-03-18**|**An HMDP-MPC Decision-making Framework with Adaptive Safety Margins and Hysteresis for Autonomous Driving**|Siyuan Li et.al.|[2603.17802](http://arxiv.org/abs/2603.17802)|null|
+|**2026-03-18**|**Optimal transport of an active particle near a plane wall**|Utkarsh Maurya et.al.|[2603.17798](http://arxiv.org/abs/2603.17798)|null|
+|**2026-03-18**|**Hierarchical Decision-Making under Uncertainty: A Hybrid MDP and Chance-Constrained MPC Approach**|Siyuan Li et.al.|[2603.17634](http://arxiv.org/abs/2603.17634)|null|
+|**2026-03-18**|**Real-Time Online Learning for Model Predictive Control using a Spatio-Temporal Gaussian Process Approximation**|Lars Bartels et.al.|[2603.17632](http://arxiv.org/abs/2603.17632)|null|
+|**2026-03-18**|**An optimal control approach to nonlinear wave speed selection in reaction-diffusion equations**|Rebecca M. Crossley et.al.|[2603.17601](http://arxiv.org/abs/2603.17601)|null|
+|**2026-03-18**|**Optimal Control for Steady Circulation of a Diffusion Process via Spectral Decomposition of Fokker-Planck Equation**|Norihisa Namura et.al.|[2603.17572](http://arxiv.org/abs/2603.17572)|null|
+|**2026-03-18**|**Distributed Adaptive Control for DC Power Distribution in Hybrid-Electric Aircraft: Design and Experimental Validation**|Wasif H. Syed et.al.|[2603.17518](http://arxiv.org/abs/2603.17518)|null|
+|**2026-03-18**|**Optical transients from non-explosive double white-dwarf mergers: the case of a central neutron star remnant**|Ridha Fathima M. M. et.al.|[2603.17505](http://arxiv.org/abs/2603.17505)|null|
 |**2026-03-17**|**Exponential stability of data-driven nonlinear MPC based on input/output models**|Lea Bold et.al.|[2603.16808](http://arxiv.org/abs/2603.16808)|null|
 |**2026-03-17**|**Optimal multi-parameter control of trapped active matter**|Luke K. Davis et.al.|[2603.16778](http://arxiv.org/abs/2603.16778)|null|
 |**2026-03-17**|**Novel insights on the Coma Cluster kinematics with DESI. I. Linking mass profile, orbital anisotropy and galaxy populations**|S. Pedratti et.al.|[2603.16706](http://arxiv.org/abs/2603.16706)|null|
@@ -1060,6 +1090,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Mechanistic Insights into Enhanced Alkaline Oxygen Evolution on Zn-Al Alloy Electrodes**|Abdul Ahad Mamun et.al.|[2603.17904](http://arxiv.org/abs/2603.17904)|null|
+|**2026-03-18**|**Free-Energy Analysis of Bubble Nucleation on Electrocatalytic Surfaces**|Qingguang Xie et.al.|[2603.17486](http://arxiv.org/abs/2603.17486)|null|
 |**2026-03-12**|**Chem4DLLM: 4D Multimodal LLMs for Chemical Dynamics Understanding**|Xinyu Li et.al.|[2603.11924](http://arxiv.org/abs/2603.11924)|null|
 |**2026-03-11**|**ATP Level and Phosphorylation Free Energy Regulate Trigger-Wave Speed and Critical Nucleus Size in Cellular Biochemical Systems**|Jianwei Li et.al.|[2603.10669](http://arxiv.org/abs/2603.10669)|null|
 |**2026-03-17**|**Tau-BNO: Brain Neural Operator for Tau Transport Model**|Nuutti Barron et.al.|[2603.08108](http://arxiv.org/abs/2603.08108)|null|
@@ -1099,6 +1131,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Universal Skeleton Understanding via Differentiable Rendering and MLLMs**|Ziyi Wang et.al.|[2603.18003](http://arxiv.org/abs/2603.18003)|null|
+|**2026-03-18**|**RoboForge: Physically Optimized Text-guided Whole-Body Locomotion for Humanoids**|Xichen Yuan et.al.|[2603.17927](http://arxiv.org/abs/2603.17927)|null|
+|**2026-03-18**|**$K π$ scattering as a step towards $B \to K^* \ell^+ \ell^-$ from Lattice QCD**|Felix Erben et.al.|[2603.17900](http://arxiv.org/abs/2603.17900)|null|
+|**2026-03-18**|**Substrate-controlled nucleation and growth kinetics in ultrathin Bi $_2$Te$_3$ films**|Damian Brzozowski et.al.|[2603.17868](http://arxiv.org/abs/2603.17868)|null|
+|**2026-03-18**|**CrowdGaussian: Reconstructing High-Fidelity 3D Gaussians for Human Crowd from a Single Image**|Yizheng Song et.al.|[2603.17779](http://arxiv.org/abs/2603.17779)|null|
+|**2026-03-18**|**Concept-to-Pixel: Prompt-Free Universal Medical Image Segmentation**|Haoyun Chen et.al.|[2603.17746](http://arxiv.org/abs/2603.17746)|null|
+|**2026-03-18**|**REAL: Robust Extreme Agility via Spatio-Temporal Policy Learning and Physics-Guided Filtering**|Jialong Liu et.al.|[2603.17653](http://arxiv.org/abs/2603.17653)|null|
+|**2026-03-18**|**Fast Beam-Brainstorm: Few-Step Generative Site-Specific Beamforming with Flexible Probing**|Zihao Zhou et.al.|[2603.17622](http://arxiv.org/abs/2603.17622)|null|
+|**2026-03-18**|**Complementary Reinforcement Learning**|Dilxat Muhtar et.al.|[2603.17621](http://arxiv.org/abs/2603.17621)|null|
+|**2026-03-18**|**Polaron-mediated anisotropic exchange in 2D magnets**|Johanna P. Carbone et.al.|[2603.17619](http://arxiv.org/abs/2603.17619)|null|
 |**2026-03-17**|**SegviGen: Repurposing 3D Generative Model for Part Segmentation**|Lin Li et.al.|[2603.16869](http://arxiv.org/abs/2603.16869)|null|
 |**2026-03-17**|**Efficient Reasoning on the Edge**|Yelysei Bondarenko et.al.|[2603.16867](http://arxiv.org/abs/2603.16867)|null|
 |**2026-03-17**|**Online Experiential Learning for Language Models**|Tianzhu Ye et.al.|[2603.16856](http://arxiv.org/abs/2603.16856)|null|
@@ -1424,6 +1466,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Identification of sub-angstrom many-body localization in quantum materials by Bragg scattering phase breaking and ultrafast structural dynamics**|Yingpeng Qi et.al.|[2603.17591](http://arxiv.org/abs/2603.17591)|null|
+|**2026-03-17**|**OpenQlaw: An Agentic AI Assistant for Analysis of 2D Quantum Materials**|Sankalp Pandey et.al.|[2603.17043](http://arxiv.org/abs/2603.17043)|null|
+|**2026-03-17**|**Accelerating Structure-Property Relationship Discovery with Multimodal Machine Learning and Self-Driving Microscopy**|Jiawei Gong et.al.|[2603.17028](http://arxiv.org/abs/2603.17028)|null|
+|**2026-03-17**|**Machine intelligence supports the full chain of 2D dendrite synthesis**|Wenqiang Huang et.al.|[2603.16959](http://arxiv.org/abs/2603.16959)|null|
 |**2026-03-17**|**Novelty-Driven Target-Space Discovery in Automated Electron and Scanning Probe Microscopy**|Utkarsh Pratiush et.al.|[2603.16715](http://arxiv.org/abs/2603.16715)|null|
 |**2026-03-17**|**Physics-guided diffusion models for inverse design of disordered metamaterials**|Ziyuan Xie et.al.|[2603.16209](http://arxiv.org/abs/2603.16209)|null|
 |**2026-03-16**|**LLM-Driven Discovery of High-Entropy Catalysts via Retrieval-Augmented Generation**|AI Scientists et.al.|[2603.15712](http://arxiv.org/abs/2603.15712)|null|
@@ -1540,6 +1586,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Maximum-Projection-Based Bayesian Optimization Utilizing Sensitivity Analysis for High-Efficiency Radial Turbine Design with Scarce Data**|Eric Diehl et.al.|[2603.17516](http://arxiv.org/abs/2603.17516)|null|
+|**2026-03-18**|**Adaptive near-contact repulsion in conservative Allen-Cahn phase-field lattice Boltzmann multiphase model**|Andrea Montessori et.al.|[2603.17481](http://arxiv.org/abs/2603.17481)|null|
+|**2026-03-17**|**Optimization-Embedded Active Multi-Fidelity Surrogate Learning for Multi-Condition Airfoil Shape Optimization**|Isaac Robledo et.al.|[2603.17057](http://arxiv.org/abs/2603.17057)|null|
 |**2026-03-17**|**Fluid-Structure Interaction and Scaling Laws for Deterministic Encapsulation of Hyperelastic Cells in Microfluidic Droplets**|Andi Liu et.al.|[2603.16604](http://arxiv.org/abs/2603.16604)|null|
 |**2026-03-17**|**UrbanFlow-3K: A Dataset of 3,000 Lattice-Boltzmann Simulations of Random Building Layouts**|Hojin Lee et.al.|[2603.16554](http://arxiv.org/abs/2603.16554)|null|
 |**2026-03-16**|**DiFVM: A Vectorized Graph-Based Finite Volume Solver for Differentiable CFD on Unstructured Meshes**|Pan Du et.al.|[2603.15920](http://arxiv.org/abs/2603.15920)|null|
@@ -1664,6 +1713,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Observational Signatures of Exact Black Hole Solutions in a Dark Matter Halo**|Azalbek Boltaev et.al.|[2603.17986](http://arxiv.org/abs/2603.17986)|null|
+|**2026-03-18**|**A practical artificial intelligence framework for legal age estimation using clavicle computed tomography scans**|Javier Venema et.al.|[2603.17926](http://arxiv.org/abs/2603.17926)|null|
+|**2026-03-18**|**Dropout Robustness and Cognitive Profiling of Transformer Models via Stochastic Inference**|Antônio Junior Alves Caiado et.al.|[2603.17811](http://arxiv.org/abs/2603.17811)|null|
+|**2026-03-18**|**Interface-dependent Phase Transitions and Ultrafast Hydrogen Superionic Diffusion of H2O Ice**|Pengfei Hou et.al.|[2603.17586](http://arxiv.org/abs/2603.17586)|null|
+|**2026-03-18**|**KA2L: A Knowledge-Aware Active Learning Framework for LLMs**|Haoxuan Yin et.al.|[2603.17566](http://arxiv.org/abs/2603.17566)|null|
+|**2026-03-18**|**Anisotropic Permeability Tensor Prediction from Porous Media Microstructure via Physics-Informed Progressive Transfer Learning with Hybrid CNN-Transformer**|Mohammad Nooraiepour et.al.|[2603.17532](http://arxiv.org/abs/2603.17532)|null|
+|**2026-03-18**|**Maximum-Projection-Based Bayesian Optimization Utilizing Sensitivity Analysis for High-Efficiency Radial Turbine Design with Scarce Data**|Eric Diehl et.al.|[2603.17516](http://arxiv.org/abs/2603.17516)|null|
+|**2026-03-18**|**DustNET: enabling machine learning and AI models of dusty plasmas**|Zhehui Wang et.al.|[2603.17493](http://arxiv.org/abs/2603.17493)|null|
+|**2026-03-18**|**Algorithms for Models with Intractable Normalizing Functions**|Murali Haran et.al.|[2603.17460](http://arxiv.org/abs/2603.17460)|null|
+|**2026-03-18**|**Structured SIR: Efficient and Expressive Importance-Weighted Inference for High-Dimensional Image Registration**|Ivor J. A. Simpson et.al.|[2603.17415](http://arxiv.org/abs/2603.17415)|null|
 |**2026-03-17**|**Typical models of the distribution system restoration process**|Arslan Ahmad et.al.|[2603.16841](http://arxiv.org/abs/2603.16841)|null|
 |**2026-03-17**|**pADAM: A Plug-and-Play All-in-One Diffusion Architecture for Multi-Physics Learning**|Amirhossein Mollaali et.al.|[2603.16757](http://arxiv.org/abs/2603.16757)|null|
 |**2026-03-17**|**Sequential Bayesian Experimental Design for Prediction in Physical Experiments Informed by Computer Models**|Hao Zhu et.al.|[2603.16756](http://arxiv.org/abs/2603.16756)|null|
@@ -1982,6 +2041,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**In-phase current and temperature oscillations reduce PEM fuel cell resistivity: A modeling study**|Andrei Kulikovsky et.al.|[2603.17709](http://arxiv.org/abs/2603.17709)|null|
+|**2026-03-18**|**A Multi-Agent System for Building-Age Cohort Mapping to Support Urban Energy Planning**|Kundan Thota et.al.|[2603.17626](http://arxiv.org/abs/2603.17626)|null|
 |**2026-03-17**|**Mapping Austria's Natural Gas and Hydrogen Infrastructure Plans**|Marco Quantschnig et.al.|[2603.16486](http://arxiv.org/abs/2603.16486)|null|
 |**2026-03-14**|**LLM-Guided Safe Reinforcement Learning for Energy System Topology Reconfiguration**|Zongyan Zhang et.al.|[2603.14018](http://arxiv.org/abs/2603.14018)|null|
 |**2026-03-14**|**Discrete-time linear quadratic stochastic control with equality-constrained inputs: Application to energy demand response**|Leo Seugnet et.al.|[2603.13975](http://arxiv.org/abs/2603.13975)|null|
