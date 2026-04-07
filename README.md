@@ -1,4 +1,4 @@
-## Updated on 2026.04.06
+## Updated on 2026.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -31,6 +31,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-06**|**A Robust SINDy Autoencoder for Noisy Dynamical System Identification**|Kairui Ding et.al.|[2604.04829](http://arxiv.org/abs/2604.04829)|null|
+|**2026-04-06**|**Hybrid Fourier Neural Operator for Surrogate Modeling of Laser Processing with a Quantum-Circuit Mixer**|Mateusz Papierz et.al.|[2604.04828](http://arxiv.org/abs/2604.04828)|null|
+|**2026-04-06**|**Receding-Horizon Control via Drifting Models**|Daniele Foffano et.al.|[2604.04528](http://arxiv.org/abs/2604.04528)|null|
+|**2026-04-06**|**BiTDiff: Fine-Grained 3D Conducting Motion Generation via BiMamba-Transformer Diffusion**|Tianzhi Jia et.al.|[2604.04395](http://arxiv.org/abs/2604.04395)|null|
+|**2026-04-06**|**On the Optimality of Reduced-Order Models for Band Structure Computations: A Kolmogorov $n$ -Width Perspective**|Ankit Srivastava et.al.|[2604.04338](http://arxiv.org/abs/2604.04338)|null|
+|**2026-04-06**|**MPC and System Identification with Differentiable Physics: Fluid System and Particle Beam Control**|Alan Williams et.al.|[2604.04327](http://arxiv.org/abs/2604.04327)|null|
+|**2026-04-05**|**Precise Robot Command Understanding Using Grammar-Constrained Large Language Models**|Xinyun Huo et.al.|[2604.04233](http://arxiv.org/abs/2604.04233)|null|
+|**2026-04-05**|**RK-MPC: Residual Koopman Model Predictive Control for Quadruped Locomotion in Offroad Environments**|Sriram S. K. S. Narayanan et.al.|[2604.04221](http://arxiv.org/abs/2604.04221)|null|
+|**2026-04-05**|**PATHFINDER: Multi-objective discovery in structural and spectral spaces**|Kamyar Barakati et.al.|[2604.04194](http://arxiv.org/abs/2604.04194)|null|
+|**2026-04-05**|**Physical Sensitivity Kernels Can Emerge in Data-Driven Forward Models: Evidence From Surface-Wave Dispersion**|Ziye Yu et.al.|[2604.04107](http://arxiv.org/abs/2604.04107)|null|
 |**2026-04-03**|**Real-Time Surrogate Modeling for Personalized Blood Flow Prediction and Hemodynamic Analysis**|Sokratis J. Anagnostopoulos et.al.|[2604.03197](http://arxiv.org/abs/2604.03197)|null|
 |**2026-04-03**|**Toward an Operational GNN-Based Multimesh Surrogate for Fast Flood Forecasting**|Valentin Mercier et.al.|[2604.02876](http://arxiv.org/abs/2604.02876)|null|
 |**2026-04-03**|**Computing the Pareto Front by Polynomial Elimination, With an Application From System Identification**|Hans van Rooij et.al.|[2604.02806](http://arxiv.org/abs/2604.02806)|null|
@@ -436,7 +446,7 @@
 |**2026-01-15**|**Is More Context Always Better? Examining LLM Reasoning Capability for Time Interval Prediction**|Yanan Cao et.al.|[2601.10132](http://arxiv.org/abs/2601.10132)|null|
 |**2026-01-15**|**Nearest Kronecker Product Decomposition Based Subband Adaptive Filter: Algorithms and Applications**|Jianhong Ye et.al.|[2601.10078](http://arxiv.org/abs/2601.10078)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## Process Control & Optimization (PSE)
 
@@ -453,7 +463,7 @@
 |**2026-01-16**|**Adaptive Monitoring of Stochastic Fire Front Processes via Information-seeking Predictive Control**|Savvas Papaioannou et.al.|[2601.11231](http://arxiv.org/abs/2601.11231)|null|
 |**2026-01-16**|**T $^\star$ : Progressive Block Scaling for MDM Through Trajectory Aware RL**|Hanchen Xia et.al.|[2601.11214](http://arxiv.org/abs/2601.11214)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## Reaction Engineering & Catalysis
 
@@ -470,7 +480,7 @@
 |**2025-12-25**|**Upper bounds on the separation efficiency of diffusiophoresis**|Fernando Temprano-Coleto et.al.|[2512.21758](http://arxiv.org/abs/2512.21758)|null|
 |**2025-12-22**|**A Unified Thermo-Chemo-Mechanical Framework for Bulk and Frontal Polymerization: Coupled Kinetics and Front Stability**|Xuanhe Li et.al.|[2512.19890](http://arxiv.org/abs/2512.19890)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## Separation Processes & Membrane Engineering
 
@@ -487,7 +497,7 @@
 |**2025-12-18**|**A single-chain nanoparticle-based mean-field theory for associative polymers**|Marco Cappa et.al.|[2512.16405](http://arxiv.org/abs/2512.16405)|null|
 |**2025-12-14**|**Progressive Conditioned Scale-Shift Recalibration of Self-Attention for Online Test-time Adaptation**|Yushun Tang et.al.|[2512.12673](http://arxiv.org/abs/2512.12673)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## Thermodynamics & Transport Phenomena
 
@@ -504,7 +514,7 @@
 |**2026-01-16**|**Optimal Abatement Schedules for Excess Carbon Emissions Towards a Net-Zero Target**|Hansjoerg Albrecher et.al.|[2601.11348](http://arxiv.org/abs/2601.11348)|null|
 |**2026-01-16**|**Unlocking the Potentials of Retrieval-Augmented Generation for Diffusion Language Models**|Chuanyue Yu et.al.|[2601.11342](http://arxiv.org/abs/2601.11342)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## Fluid Mechanics & CFD
 
@@ -521,12 +531,22 @@
 |**2026-01-15**|**Computing Statistical Properties of Velocity Fields on Current Quantum Hardware**|Miriam Goldack et.al.|[2601.10166](http://arxiv.org/abs/2601.10166)|null|
 |**2026-01-15**|**Physics-informed neural networks for angular-momentum conservation in computational relativistic spin hydrodynamics**|Hidefumi Matsuda et.al.|[2601.10136](http://arxiv.org/abs/2601.10136)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## Digital Twins & Process Monitoring
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-06**|**Toward Self-Organizing Production Logistics in Circular Factories: A Multi-Agent Approach**|Jan-Felix Klein et.al.|[2604.04753](http://arxiv.org/abs/2604.04753)|null|
+|**2026-04-06**|**ACHEM: A Real-Time Digital Twin Framework with Channel and Radio Emulation**|Anil Gurses et.al.|[2604.04742](http://arxiv.org/abs/2604.04742)|null|
+|**2026-04-06**|**Synthesis4AD: Synthetic Anomalies are All You Need for 3D Anomaly Detection**|Yihan Sun et.al.|[2604.04658](http://arxiv.org/abs/2604.04658)|null|
+|**2026-04-06**|**InCTRLv2: Generalist Residual Models for Few-Shot Anomaly Detection and Segmentation**|Jiawen Zhu et.al.|[2604.04632](http://arxiv.org/abs/2604.04632)|null|
+|**2026-04-06**|**Safe and Near-Optimal Gate Control: A Case Study from the Danish West Coast**|Martin Kristjansen et.al.|[2604.04545](http://arxiv.org/abs/2604.04545)|null|
+|**2026-04-06**|**Cognibit: From Digital Exhaustion to Real-World Connection Through Gamified Territory Control and LLM-Powered Twin Networking**|Wanghao Ye et.al.|[2604.04351](http://arxiv.org/abs/2604.04351)|null|
+|**2026-04-05**|**A Family of Open Time-Series Foundation Models for the Radio Access Network**|Ioannis Panitsas et.al.|[2604.04271](http://arxiv.org/abs/2604.04271)|null|
+|**2026-04-05**|**A Physics-Informed, Behavior-Aware Digital Twin for Robust Multimodal Forecasting of Core Body Temperature in Precision Livestock Farming**|Riasad Alvi et.al.|[2604.04098](http://arxiv.org/abs/2604.04098)|null|
+|**2026-04-05**|**Extended Hybrid Timed Petri Nets with Semi-Supervised Anomaly Detection for Switched Systems, Modelling and Fault Detection**|Fatiha Hamdi et.al.|[2604.04051](http://arxiv.org/abs/2604.04051)|null|
+|**2026-04-05**|**Hierarchical Point-Patch Fusion with Adaptive Patch Codebook for 3D Shape Anomaly Detection**|Xueyang Kang et.al.|[2604.03972](http://arxiv.org/abs/2604.03972)|null|
 |**2026-04-03**|**Causal Inference for Quantifying Noisy Neighbor Effects in Multi-Tenant Cloud Environments**|Philipe S. Schiavo et.al.|[2604.03145](http://arxiv.org/abs/2604.03145)|null|
 |**2026-04-03**|**Distributed Snitch Digital Twin-Based Anomaly Detection for Smart Voltage Source Converter-Enabled Wind Power Systems**|Mohammad Ashraf Hossain Sadi et.al.|[2604.03123](http://arxiv.org/abs/2604.03123)|null|
 |**2026-04-03**|**Redefining End-of-Life: Intelligent Automation for Electronics Remanufacturing Systems**|Sibo Tian et.al.|[2604.03066](http://arxiv.org/abs/2604.03066)|null|
@@ -945,7 +965,7 @@
 |**2026-01-15**|**SVII-3D: Advancing Roadside Infrastructure Inventory with Decimeter-level 3D Localization and Comprehension from Sparse Street Imagery**|Chong Liu et.al.|[2601.10535](http://arxiv.org/abs/2601.10535)|null|
 |**2026-01-15**|**Online identification of nonlinear time-varying systems with uncertain information**|He Ren et.al.|[2601.10379](http://arxiv.org/abs/2601.10379)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## Materials & Polymer Engineering
 
@@ -962,7 +982,7 @@
 |**2026-01-10**|**Physics-constrained Gaussian Processes for Predicting Shockwave Hugoniot Curves**|George D. Pasparakis et.al.|[2601.06655](http://arxiv.org/abs/2601.06655)|null|
 |**2026-01-09**|**Autonomous Probe Microscopy with Robust Bag-of-Features Multi-Objective Bayesian Optimization: Pareto-Front Mapping of Nanoscale Structure-Property Trade-Offs**|Kamyar Barakati et.al.|[2601.05528](http://arxiv.org/abs/2601.05528)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## Molecular Discovery & Property Prediction
 
@@ -979,7 +999,7 @@
 |**2025-12-13**|**GoMS: Graph of Molecule Substructure Network for Molecule Property Prediction**|Shuhui Qu et.al.|[2512.12489](http://arxiv.org/abs/2512.12489)|null|
 |**2025-12-12**|**Task-Specific Sparse Feature Masks for Molecular Toxicity Prediction with Chemical Language Models**|Kwun Sy Lee et.al.|[2512.11412](http://arxiv.org/abs/2512.11412)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## Energy, Electrochemical & Sustainable Systems
 
@@ -996,7 +1016,7 @@
 |**2026-01-14**|**Ascertaining higher-order quantum correlations in high energy physics**|Ao-Xiang Liu et.al.|[2601.09203](http://arxiv.org/abs/2601.09203)|null|
 |**2026-01-13**|**Effect of Niobium Doping on the Crystal Structure and Hydrogen Sorption Properties of TiFe: Combined Synchrotron X-ray Diffraction and Extended X-ray Absorption Fine Structure Study**|Abhishek Banerjee et.al.|[2601.08935](http://arxiv.org/abs/2601.08935)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## Sustainable & Green Chemical Engineering
 
@@ -1013,7 +1033,7 @@
 |**2026-01-15**|**Energy-Efficient Probabilistic Semantic Communication Over Visible Light Networks With Rate Splitting**|Zhouxiang Zhao et.al.|[2601.10452](http://arxiv.org/abs/2601.10452)|null|
 |**2026-01-15**|**Resistive Memory based Efficient Machine Unlearning and Continual Learning**|Ning Lin et.al.|[2601.10037](http://arxiv.org/abs/2601.10037)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## Generative & Foundation Models for ChE
 
@@ -1030,7 +1050,7 @@
 |**2025-12-18**|**ARMFlow: AutoRegressive MeanFlow for Online 3D Human Reaction Generation**|Zichen Geng et.al.|[2512.16234](http://arxiv.org/abs/2512.16234)|null|
 |**2025-12-17**|**Multi-stage Bayesian optimisation for dynamic decision-making in self-driving labs**|Luca Torresi et.al.|[2512.15483](http://arxiv.org/abs/2512.15483)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## AI for Chemical Engineering (General)
 
@@ -1050,12 +1070,22 @@
 |**2025-01-16**|**A Multi-agent System for Hybrid Optimization**|Eric S. Fraga et.al.|[2501.09563](http://arxiv.org/abs/2501.09563)|null|
 |**2024-12-18**|**Surrogate-Based Optimization Techniques for Process Systems Engineering**|Mathias Neufang et.al.|[2412.13948](http://arxiv.org/abs/2412.13948)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## Process Control & Optimization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-06**|**PINNs in PDE Constrained Optimal Control Problems: Direct vs Indirect Methods**|Zhen Zhang et.al.|[2604.04920](http://arxiv.org/abs/2604.04920)|null|
+|**2026-04-06**|**Measurement of the galaxy-velocity power spectrum of DESI tracers with the kinematic Sunyaev-Zeldovich effect using DESI DR2 and ACT DR6**|Edmond Chaussidon et.al.|[2604.04867](http://arxiv.org/abs/2604.04867)|null|
+|**2026-04-06**|**Cryptanalysis of the Legendre Pseudorandom Function over Extension Fields**|Daksh Pandey et.al.|[2604.04833](http://arxiv.org/abs/2604.04833)|null|
+|**2026-04-06**|**Sample Complexity for Markov Decision Processes and Stochastic Optimal Control with Static Risk Measures**|Cristian Chávez et.al.|[2604.04795](http://arxiv.org/abs/2604.04795)|null|
+|**2026-04-06**|**Stochastic Model Predictive Control with Online Risk Allocation and Feedback Gain Selection**|Filipe Marques Barbosa et.al.|[2604.04602](http://arxiv.org/abs/2604.04602)|null|
+|**2026-04-06**|**Receding-Horizon Control via Drifting Models**|Daniele Foffano et.al.|[2604.04528](http://arxiv.org/abs/2604.04528)|null|
+|**2026-04-06**|**Region of Attraction Estimation for Linear Quadratic Regulator, Linear and Robust Model Predictive Control on a Two-Wheeled Inverted Pendulum**|Lorenzo Fici et.al.|[2604.04455](http://arxiv.org/abs/2604.04455)|null|
+|**2026-04-06**|**FORMULA: FORmation MPC with neUral barrier Learning for safety Assurance**|Qintong Xie et.al.|[2604.04409](http://arxiv.org/abs/2604.04409)|null|
+|**2026-04-06**|**MPC and System Identification with Differentiable Physics: Fluid System and Particle Beam Control**|Alan Williams et.al.|[2604.04327](http://arxiv.org/abs/2604.04327)|null|
+|**2026-04-05**|**Real-Time Projected Adaptive Control for Closed-Chain Co-Manipulative Continuum Robots**|Rana Danesh et.al.|[2604.04286](http://arxiv.org/abs/2604.04286)|null|
 |**2026-04-03**|**Hierarchical Planning with Latent World Models**|Wancong Zhang et.al.|[2604.03208](http://arxiv.org/abs/2604.03208)|null|
 |**2026-04-03**|**Safety-Critical Centralized Nonlinear MPC for Cooperative Payload Transportation by Two Quadrupedal Robots**|Ruturaj S. Sambhus et.al.|[2604.03200](http://arxiv.org/abs/2604.03200)|null|
 |**2026-04-03**|**Which filaments matter: the relative scalings of anisotropic infall**|Junsup Shim et.al.|[2604.03093](http://arxiv.org/abs/2604.03093)|null|
@@ -1486,12 +1516,13 @@
 |**2026-01-17**|**A method for optimizing the structure of the software and hardware complex of a distributed process control system for large industrial enterprises**|Ruslan Zakirzyanov et.al.|[2601.12070](http://arxiv.org/abs/2601.12070)|null|
 |**2026-01-17**|**Harmonica: A Self-Adaptation Exemplar for Sustainable MLOps**|Ananya Halgatti et.al.|[2601.11926](http://arxiv.org/abs/2601.11926)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## Reaction Engineering & Kinetics
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-03**|**Surface-access limitation in catalytic porous monoliths: Performance diagnosis using pore-resolved CFD**|Olivier Guévremont et.al.|[2604.03514](http://arxiv.org/abs/2604.03514)|null|
 |**2026-04-03**|**NeuReasoner: Towards Explainable, Controllable, and Unified Reasoning via Mixture-of-Neurons**|Haonan Dong et.al.|[2604.02972](http://arxiv.org/abs/2604.02972)|null|
 |**2026-04-01**|**Stochastic ordering tools for continuous-time Markov chains and applications to reaction network models**|Daniele Cappelletti et.al.|[2604.00756](http://arxiv.org/abs/2604.00756)|null|
 |**2026-03-30**|**Oxygen as a dual function regulator in MoS2 CVD synthesis: enhancing precursor evaporation while modulating reaction kinetics**|Keerthana S Kumar et.al.|[2603.28461](http://arxiv.org/abs/2603.28461)|null|
@@ -1536,12 +1567,22 @@
 |**2025-12-22**|**Machine Learning of Temperature-dependent Chemical Kinetics Using Parallel Droplet Microreactors**|Mamoru Saita et.al.|[2512.19416](http://arxiv.org/abs/2512.19416)|null|
 |**2025-12-20**|**Parameter-free prediction of irradiation defect structures in tungsten at room temperature using stochastic cluster dynamics**|Sicong He et.al.|[2512.18258](http://arxiv.org/abs/2512.18258)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## Separation Processes & Transport Phenomena
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-06**|**Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision**|Hyunsoo Cha et.al.|[2604.04934](http://arxiv.org/abs/2604.04934)|null|
+|**2026-04-06**|**QED-Nano: Teaching a Tiny Model to Prove Hard Theorems**|LM-Provers et.al.|[2604.04898](http://arxiv.org/abs/2604.04898)|null|
+|**2026-04-06**|**Hybrid Fourier Neural Operator for Surrogate Modeling of Laser Processing with a Quantum-Circuit Mixer**|Mateusz Papierz et.al.|[2604.04828](http://arxiv.org/abs/2604.04828)|null|
+|**2026-04-06**|**SkillX: Automatically Constructing Skill Knowledge Bases for Agents**|Chenxi Wang et.al.|[2604.04804](http://arxiv.org/abs/2604.04804)|null|
+|**2026-04-06**|**Forgetting to Witness: Efficient Federated Unlearning and Its Visible Evaluation**|Houzhe Wang et.al.|[2604.04800](http://arxiv.org/abs/2604.04800)|null|
+|**2026-04-06**|**Beyond Hard Negatives: The Importance of Score Distribution in Knowledge Distillation for Dense Retrieval**|Youngjoon Jang et.al.|[2604.04734](http://arxiv.org/abs/2604.04734)|null|
+|**2026-04-06**|**Transforming Discarded Thermoelectrics into High-Performance HER Catalysts**|Gemeda Jemal Usa et.al.|[2604.04718](http://arxiv.org/abs/2604.04718)|null|
+|**2026-04-06**|**Search, Do not Guess: Teaching Small Language Models to Be Effective Search Agents**|Yizhou Liu et.al.|[2604.04651](http://arxiv.org/abs/2604.04651)|null|
+|**2026-04-06**|**Broken Symmetry-driven Weyl Semimetal Phase in Zn-Substituted EuMn $_2$Sb$_2$**|Deep Sagara et.al.|[2604.04574](http://arxiv.org/abs/2604.04574)|null|
+|**2026-04-06**|**Reproducibility study on how to find Spurious Correlations, Shortcut Learning, Clever Hans or Group-Distributional non-robustness and how to fix them**|Ole Delzer et.al.|[2604.04518](http://arxiv.org/abs/2604.04518)|null|
 |**2026-04-03**|**VOSR: A Vision-Only Generative Model for Image Super-Resolution**|Rongyuan Wu et.al.|[2604.03225](http://arxiv.org/abs/2604.03225)|null|
 |**2026-04-03**|**Reliability Gated Multi-Teacher Distillation for Low Resource Abstractive Summarization**|Dipto Sumit et.al.|[2604.03192](http://arxiv.org/abs/2604.03192)|null|
 |**2026-04-03**|**PRISM: LLM-Guided Semantic Clustering for High-Precision Topics**|Connor Douglas et.al.|[2604.03180](http://arxiv.org/abs/2604.03180)|null|
@@ -1993,7 +2034,7 @@
 |**2026-01-16**|**A self-evolving multi-role collaborative framework with fine-grained difficulty guidance for innovative mathematical problem generation**|Yifei Sun et.al.|[2601.11792](http://arxiv.org/abs/2601.11792)|null|
 |**2026-01-16**|**A wafer-scale ultrasensitive programmable chiroptical sensor**|Haoyu Xie et.al.|[2601.11774](http://arxiv.org/abs/2601.11774)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## Catalysis & Materials for Chemical Engineering
 
@@ -2147,12 +2188,16 @@
 |**2026-01-13**|**Machine Learning-Driven Creep Law Discovery Across Alloy Compositional Space**|Hongshun Chen et.al.|[2601.08970](http://arxiv.org/abs/2601.08970)|null|
 |**2026-01-13**|**Multi-Task Fine-Tuning Enables Robust Out-of-Distribution Generalization in Atomistic Models**|Chengqian Zhang et.al.|[2601.08486](http://arxiv.org/abs/2601.08486)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## Computational Fluid Dynamics & Multiphase Flow
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-06**|**DRL-Based Phase Optimization for O-RIS in Dual-Hop Hard-Switching FSO/RIS-aided RF and UWOC Systems**|Aboozar Heydaribeni et.al.|[2604.04531](http://arxiv.org/abs/2604.04531)|null|
+|**2026-04-03**|**Surface-access limitation in catalytic porous monoliths: Performance diagnosis using pore-resolved CFD**|Olivier Guévremont et.al.|[2604.03514](http://arxiv.org/abs/2604.03514)|null|
+|**2026-04-03**|**Amalgamation of Physics-Informed Neural Network and LBM for the Prediction of Unsteady Fluid Flows in Fractal-Rough Microchannels**|Ganesh Sahadeo Meshram et.al.|[2604.03504](http://arxiv.org/abs/2604.03504)|null|
+|**2026-04-03**|**Lattice-Boltzmann-Driven Physics-Informed Neural Networks for Droplet Wettability on Rough Surfaces**|Ganesh Sahadeo Meshram et.al.|[2604.03481](http://arxiv.org/abs/2604.03481)|null|
 |**2026-04-03**|**Wave-appropriate reconstruction of compressible flows: physics-constrained acoustic dissipation and rank-1 entropy wave correction**|Amareshwara Sainadh Chamarthi et.al.|[2604.02757](http://arxiv.org/abs/2604.02757)|null|
 |**2026-04-02**|**A Multimodal Vision Transformer-based Modeling Framework for Prediction of Fluid Flows in Energy Systems**|Kiran Yalamanchi et.al.|[2604.02483](http://arxiv.org/abs/2604.02483)|null|
 |**2026-04-02**|**ReVAR: A Data-Driven Algorithm for Generating Aero-Optic Phase Screens**|Jeffrey W. Utley et.al.|[2604.02326](http://arxiv.org/abs/2604.02326)|null|
@@ -2320,12 +2365,22 @@
 |**2026-01-14**|**Progressive Mixture-of-Experts with autoencoder routing for continual RANS turbulence modelling**|Haoyu Ji et.al.|[2601.09305](http://arxiv.org/abs/2601.09305)|null|
 |**2026-01-13**|**Lattice Boltzmann methods for simulating non-Newtonian fluids: A comprehensive review**|Vedad Dzanic et.al.|[2601.08206](http://arxiv.org/abs/2601.08206)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## Uncertainty Quantification & Bayesian Methods
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-06**|**Sampling Parallelism for Fast and Efficient Bayesian Learning**|Asena Karolin Özdemir et.al.|[2604.04736](http://arxiv.org/abs/2604.04736)|null|
+|**2026-04-06**|**CommonMorph: Participatory Morphological Documentation Platform**|Aso Mahmudi et.al.|[2604.04515](http://arxiv.org/abs/2604.04515)|null|
+|**2026-04-06**|**Generative models for decision-making under distributional shift**|Xiuyuan Cheng et.al.|[2604.04342](http://arxiv.org/abs/2604.04342)|null|
+|**2026-04-06**|**Replacing Gaussian Processes with Neural Networks in Pulsar Timing Array Inference of the Gravitational-Wave Background**|Shreyas Tiruvaskar et.al.|[2604.04340](http://arxiv.org/abs/2604.04340)|null|
+|**2026-04-05**|**Mean--Variance Risk-Aware Bayesian Optimal Experimental Design for Nonlinear Models**|Wanggang Shen et.al.|[2604.04315](http://arxiv.org/abs/2604.04315)|null|
+|**2026-04-05**|**Simulated Annealing for Model-Robust Partial Profile Choice Designs in Healthcare Preference Studies**|Yicheng Mao et.al.|[2604.04294](http://arxiv.org/abs/2604.04294)|null|
+|**2026-04-05**|**LLM-Enabled Open-Source Systems in the Wild: An Empirical Study of Vulnerabilities in GitHub Security Advisories**|Fariha Tanjim Shifat et.al.|[2604.04288](http://arxiv.org/abs/2604.04288)|null|
+|**2026-04-05**|**CoALFake: Collaborative Active Learning with Human-LLM Co-Annotation for Cross-Domain Fake News Detection**|Esma Aïmeur et.al.|[2604.04174](http://arxiv.org/abs/2604.04174)|null|
+|**2026-04-05**|**Multirate Stein Variational Gradient Descent for Efficient Bayesian Sampling**|Arash Sarshar et.al.|[2604.03981](http://arxiv.org/abs/2604.03981)|null|
+|**2026-04-05**|**AdaptFuse: Training-Free Sequential Preference Learning via Externalized Bayesian Inference**|Fangzhou Lin et.al.|[2604.03925](http://arxiv.org/abs/2604.03925)|null|
 |**2026-04-03**|**GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes**|Mijeong Kim et.al.|[2604.02915](http://arxiv.org/abs/2604.02915)|null|
 |**2026-04-03**|**Rethinking Forward Processes for Score-Based Data Assimilation in High Dimensions**|Eunbi Yoon et.al.|[2604.02889](http://arxiv.org/abs/2604.02889)|null|
 |**2026-04-03**|**High-resolution probabilistic estimation of three-dimensional regional ocean dynamics from sparse surface observations**|Niloofar Asefi et.al.|[2604.02850](http://arxiv.org/abs/2604.02850)|null|
@@ -2768,12 +2823,13 @@
 |**2026-01-16**|**Gradient-based Active Learning with Gaussian Processes for Global Sensitivity Analysis**|Guerlain Lambert et.al.|[2601.11790](http://arxiv.org/abs/2601.11790)|null|
 |**2026-01-16**|**Quantum Kernel Machine Learning for Autonomous Materials Science**|Felix Adams et.al.|[2601.11775](http://arxiv.org/abs/2601.11775)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 ## Energy, Sustainability & Electrochemical Systems
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-06**|**Edge-Oriented Orchestration of Energy Services Using Graph-Driven Swarm Intelligence**|Liana Toderean et.al.|[2604.04645](http://arxiv.org/abs/2604.04645)|null|
 |**2026-04-03**|**Distributed Snitch Digital Twin-Based Anomaly Detection for Smart Voltage Source Converter-Enabled Wind Power Systems**|Mohammad Ashraf Hossain Sadi et.al.|[2604.03123](http://arxiv.org/abs/2604.03123)|null|
 |**2026-04-02**|**A Multimodal Vision Transformer-based Modeling Framework for Prediction of Fluid Flows in Energy Systems**|Kiran Yalamanchi et.al.|[2604.02483](http://arxiv.org/abs/2604.02483)|null|
 |**2026-04-02**|**Effects of gas diffusion layer thickness on PEM fuel cells with composite foam-rib flow fields**|Wei Gao et.al.|[2604.01788](http://arxiv.org/abs/2604.01788)|null|
@@ -2874,7 +2930,7 @@
 |**2026-01-12**|**Mind the Temperature Gap: The Role of Pit Thermal Energy Storage in a Sector-Coupled Energy System with High-Temperature District Heating**|Caspar Schauß et.al.|[2601.07647](http://arxiv.org/abs/2601.07647)|null|
 |**2026-01-10**|**Short-term electricity load forecasting with multi-frequency reconstruction diffusion**|Qi Dong et.al.|[2601.06533](http://arxiv.org/abs/2601.06533)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/ai4cheme-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/ai4cheme-arxiv-daily/graphs/contributors
