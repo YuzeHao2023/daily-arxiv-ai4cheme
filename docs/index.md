@@ -2,13 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.04.09
+## Updated on 2026.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Process Modeling & System Identification
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Discounted MPC and infinite-horizon optimal control under plant-model mismatch: Stability and suboptimality**|Robert H. Moldenhauer et.al.|[2604.08521](http://arxiv.org/abs/2604.08521)|null|
+|**2026-04-09**|**A Machine Learning Framework for Turbofan Health Estimation via Inverse Problem Formulation**|Milad Leyli-Abadi et.al.|[2604.08460](http://arxiv.org/abs/2604.08460)|null|
+|**2026-04-09**|**From Cut-In to Rated: Multi-Region Floating Offshore Wind Farm Control for Secondary Frequency Regulation**|Stephen Ampleman et.al.|[2604.08240](http://arxiv.org/abs/2604.08240)|null|
+|**2026-04-09**|**State and Trajectory Estimation of Tensegrity Robots via Factor Graphs and Chebyshev Polynomials**|Edgar Granados et.al.|[2604.08185](http://arxiv.org/abs/2604.08185)|null|
+|**2026-04-09**|**Robust Length Prediction: A Perspective from Heavy-Tailed Prompt-Conditioned Distributions**|Jing Wang et.al.|[2604.07931](http://arxiv.org/abs/2604.07931)|null|
+|**2026-04-09**|**Automatic Generation of Executable BPMN Models from Medical Guidelines**|Praveen Kumar Menaka Sekar et.al.|[2604.07817](http://arxiv.org/abs/2604.07817)|null|
+|**2026-04-09**|**Tensor-based computation of the Koopman generator via operator logarithm**|Tatsuya Kishimoto et.al.|[2604.07685](http://arxiv.org/abs/2604.07685)|null|
+|**2026-04-08**|**Learning Markov Processes as Sum-of-Square Forms for Analytical Belief Propagation**|Peter Amorese et.al.|[2604.07525](http://arxiv.org/abs/2604.07525)|null|
 |**2026-04-08**|**Graph Neural ODE Digital Twins for Control-Oriented Reactor Thermal-Hydraulic Forecasting Under Partial Observability**|Akzhol Almukhametov et.al.|[2604.07292](http://arxiv.org/abs/2604.07292)|null|
 |**2026-04-08**|**Photon density of states engineering with generative inverse design for scalable 3D photonic metamaterials**|Zesen Zhou et.al.|[2604.07111](http://arxiv.org/abs/2604.07111)|null|
 |**2026-04-08**|**Controller Design for Structured State-space Models via Contraction Theory**|Muhammad Zakwan et.al.|[2604.07069](http://arxiv.org/abs/2604.07069)|null|
@@ -523,6 +531,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**On-board Telemetry Monitoring in Autonomous Satellites: Challenges and Opportunities**|Lorenzo Capelli et.al.|[2604.08424](http://arxiv.org/abs/2604.08424)|null|
+|**2026-04-09**|**GroundingAnomaly: Spatially-Grounded Diffusion for Few-Shot Anomaly Synthesis**|Yishen Liu et.al.|[2604.08301](http://arxiv.org/abs/2604.08301)|null|
+|**2026-04-09**|**Beyond Static Forecasting: Unleashing the Power of World Models for Mobile Traffic Extrapolation**|Xiaoqian Qi et.al.|[2604.08199](http://arxiv.org/abs/2604.08199)|null|
+|**2026-04-09**|**A Statistical-AI Framework for Detecting Transient Flares in SDSS Stripe 82 Quasar Light Curves**|Atal Agrawal et.al.|[2604.08196](http://arxiv.org/abs/2604.08196)|null|
+|**2026-04-09**|**A Comparative Study of Semantic Log Representations for Software Log-based Anomaly Detection**|Yuqing Wang et.al.|[2604.08028](http://arxiv.org/abs/2604.08028)|null|
+|**2026-04-09**|**AgiPIX: Bridging Simulation and Reality in Indoor Aerial Inspection**|Sasanka Kuruppu Arachchige et.al.|[2604.08009](http://arxiv.org/abs/2604.08009)|null|
+|**2026-04-09**|**Differentiable hybrid force fields support scalable autonomous electrolyte discovery**|Xintian Wang et.al.|[2604.07979](http://arxiv.org/abs/2604.07979)|null|
+|**2026-04-09**|**AnomalyAgent: Agentic Industrial Anomaly Synthesis via Tool-Augmented Reinforcement Learning**|Jiaming Su et.al.|[2604.07900](http://arxiv.org/abs/2604.07900)|null|
+|**2026-04-09**|**Latent Anomaly Knowledge Excavation: Unveiling Sparse Sensitive Neurons in Vision-Language Models**|Shaotian Li et.al.|[2604.07802](http://arxiv.org/abs/2604.07802)|null|
+|**2026-04-09**|**ESOM: Efficiently Understanding Streaming Video Anomalies with Open-world Dynamic Definitions**|Zihao Liu et.al.|[2604.07772](http://arxiv.org/abs/2604.07772)|null|
 |**2026-04-08**|**Graph Neural ODE Digital Twins for Control-Oriented Reactor Thermal-Hydraulic Forecasting Under Partial Observability**|Akzhol Almukhametov et.al.|[2604.07292](http://arxiv.org/abs/2604.07292)|null|
 |**2026-04-08**|**Active Propeller Fault Detection and Isolation in Multirotors Via Vibration Model**|Alessandro Baldini et.al.|[2604.07281](http://arxiv.org/abs/2604.07281)|null|
 |**2026-04-08**|**Novel Anomaly Detection Scenarios and Evaluation Metrics to Address the Ambiguity in the Definition of Normal Samples**|Reiji Saito et.al.|[2604.07097](http://arxiv.org/abs/2604.07097)|null|
@@ -1068,6 +1086,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Disentangling cosmic distance tensions with early and late dark energy**|Tanisha Jhaveri et.al.|[2604.08530](http://arxiv.org/abs/2604.08530)|null|
+|**2026-04-09**|**Discounted MPC and infinite-horizon optimal control under plant-model mismatch: Stability and suboptimality**|Robert H. Moldenhauer et.al.|[2604.08521](http://arxiv.org/abs/2604.08521)|null|
+|**2026-04-09**|**Density-Driven Optimal Control: Convergence Guarantees for Stochastic LTI Multi-Agent Systems**|Kooktae Lee et.al.|[2604.08495](http://arxiv.org/abs/2604.08495)|null|
+|**2026-04-09**|**NL-CPS: Reinforcement Learning-Based Kubernetes Control Plane Placement in Multi-Region Clusters**|Sajid Alam et.al.|[2604.08434](http://arxiv.org/abs/2604.08434)|null|
+|**2026-04-09**|**A Dynamical Equilibrium Linking Nanohertz Stochastic Gravitational Wave Background to Cosmic Structure Formation**|Manjia Liang et.al.|[2604.08317](http://arxiv.org/abs/2604.08317)|null|
+|**2026-04-09**|**Bandwidth reduction methods for packetized MPC over lossy networks**|Alberto Mingoia et.al.|[2604.08270](http://arxiv.org/abs/2604.08270)|null|
+|**2026-04-09**|**From Cut-In to Rated: Multi-Region Floating Offshore Wind Farm Control for Secondary Frequency Regulation**|Stephen Ampleman et.al.|[2604.08240](http://arxiv.org/abs/2604.08240)|null|
+|**2026-04-09**|**Free-Energy Minimizing Policies Under Generative Model Ambiguity**|Arash Shafiei et.al.|[2604.08222](http://arxiv.org/abs/2604.08222)|null|
+|**2026-04-09**|**PriPG-RL: Privileged Planner-Guided Reinforcement Learning for Partially Observable Systems with Anytime-Feasible MPC**|Mohsen Amiri et.al.|[2604.08036](http://arxiv.org/abs/2604.08036)|null|
+|**2026-04-09**|**Open-Ended Instruction Realization with LLM-Enabled Multi-Planner Scheduling in Autonomous Vehicles**|Jiawei Liu et.al.|[2604.08031](http://arxiv.org/abs/2604.08031)|null|
 |**2026-04-08**|**Dual-Envelope Constrained Nonlinear MPC for Distributed Drive Electric Vehicles Drifting Under Bounded Steering and Direct Yaw-Moment Control**|Yurun Gan et.al.|[2604.07342](http://arxiv.org/abs/2604.07342)|null|
 |**2026-04-08**|**Primordial magnetic fields in the light of upcoming post-EoR Lyman- $α$ and 21-cm observations**|Arko Bhaumik et.al.|[2604.07327](http://arxiv.org/abs/2604.07327)|null|
 |**2026-04-08**|**A Trajectory-based Approach to the Computation of Controlled Invariants with application to MPC**|Emmanuel Junior Wafo Wembe et.al.|[2604.07225](http://arxiv.org/abs/2604.07225)|null|
@@ -1582,6 +1610,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Self-Improving 4D Perception via Self-Distillation**|Nan Huang et.al.|[2604.08532](http://arxiv.org/abs/2604.08532)|null|
+|**2026-04-09**|**Demystifying OPD: Length Inflation and Stabilization Strategies for Large Language Models**|Feng Luo et.al.|[2604.08527](http://arxiv.org/abs/2604.08527)|null|
+|**2026-04-09**|**Less Approximates More: Harmonizing Performance and Confidence Faithfulness via Hybrid Post-Training for High-Stakes Tasks**|Haokai Ma et.al.|[2604.08454](http://arxiv.org/abs/2604.08454)|null|
+|**2026-04-09**|**Orion-Lite: Distilling LLM Reasoning into Efficient Vision-Only Driving Models**|Jing Gu et.al.|[2604.08266](http://arxiv.org/abs/2604.08266)|null|
+|**2026-04-09**|**MedVR: Annotation-Free Medical Visual Reasoning via Agentic Reinforcement Learning**|Zheng Jiang et.al.|[2604.08203](http://arxiv.org/abs/2604.08203)|null|
+|**2026-04-09**|**Value-Guidance MeanFlow for Offline Multi-Agent Reinforcement Learning**|Teng Pang et.al.|[2604.08174](http://arxiv.org/abs/2604.08174)|null|
+|**2026-04-09**|**Small Vision-Language Models are Smart Compressors for Long Video Understanding**|Junjie Fei et.al.|[2604.08120](http://arxiv.org/abs/2604.08120)|null|
+|**2026-04-09**|**Oxophilic Silver-Based Nanoparticles with Low Pd-Au Loading for Ethanol and Glycerol Electrooxidation in Alkaline Media**|Tuani Carla Gentil et.al.|[2604.08081](http://arxiv.org/abs/2604.08081)|null|
+|**2026-04-09**|**A Full-Stack Performance Evaluation Infrastructure for 3D-DRAM-based LLM Accelerators**|Cong Li et.al.|[2604.08044](http://arxiv.org/abs/2604.08044)|null|
+|**2026-04-09**|**PriPG-RL: Privileged Planner-Guided Reinforcement Learning for Partially Observable Systems with Anytime-Feasible MPC**|Mohsen Amiri et.al.|[2604.08036](http://arxiv.org/abs/2604.08036)|null|
 |**2026-04-08**|**Distilling Photon-Counting CT into Routine Chest CT through Clinically Validated Degradation Modeling**|Junqi Liu et.al.|[2604.07329](http://arxiv.org/abs/2604.07329)|null|
 |**2026-04-08**|**Graph Neural ODE Digital Twins for Control-Oriented Reactor Thermal-Hydraulic Forecasting Under Partial Observability**|Akzhol Almukhametov et.al.|[2604.07292](http://arxiv.org/abs/2604.07292)|null|
 |**2026-04-08**|**Validated Intent Compilation for Constrained Routing in LEO Mega-Constellations**|Yuanhang Li et.al.|[2604.07264](http://arxiv.org/abs/2604.07264)|null|
@@ -2067,6 +2105,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Rapid and Highly Efficient Synergistic Sonophotocatalytic Degradation of Methyl Orange with CuDoped LaFeO3 Perovskite Nanoparticles**|Salma Elmouloua et.al.|[2604.08257](http://arxiv.org/abs/2604.08257)|null|
+|**2026-04-09**|**Multi-Agent Orchestration for High-Throughput Materials Screening on a Leadership-Class System**|Thang Duc Pham et.al.|[2604.07681](http://arxiv.org/abs/2604.07681)|null|
+|**2026-04-08**|**Stability of Supported Pd-based Ethanol Oxidation Reaction Electrocatalysts in Alkaline Media**|Tuani C. Gentil et.al.|[2604.07483](http://arxiv.org/abs/2604.07483)|null|
 |**2026-04-08**|**Programmable Photocatalysis via Symmetry-Defined Periodic Potentials**|Qun Yang et.al.|[2604.07260](http://arxiv.org/abs/2604.07260)|null|
 |**2026-04-08**|**Photoexcited Hole States at the SrTiO3(001) Surface Imaged with Noncontact AFM**|Igor Sokolovic et.al.|[2604.07114](http://arxiv.org/abs/2604.07114)|null|
 |**2026-04-08**|**Photon density of states engineering with generative inverse design for scalable 3D photonic metamaterials**|Zesen Zhou et.al.|[2604.07111](http://arxiv.org/abs/2604.07111)|null|
@@ -2227,9 +2268,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**A Helicity-Conservative Domain-Decomposed Physics-Informed Neural Network for Incompressible Non-Newtonian Flow**|Zheng Lu et.al.|[2604.08002](http://arxiv.org/abs/2604.08002)|null|
+|**2026-04-09**|**Influence of Plaque Characteristics on Stent Biomechanical Outcomes - A Case Study on Double Kissing Crush Coronary Stenting**|Andrea Colombo et.al.|[2604.07800](http://arxiv.org/abs/2604.07800)|null|
+|**2026-04-09**|**Toward Generalizable Graph Learning for 3D Engineering AI: Explainable Workflows for CAE Mode Shape Classification and CFD Field Prediction**|Tong Duy Son et.al.|[2604.07781](http://arxiv.org/abs/2604.07781)|null|
 |**2026-04-08**|**Quantifying Flow separation for ellipse and von-Kármán Airfoil: A dataset of surface pressure and skin friction**|Christian Bak Winther et.al.|[2604.06913](http://arxiv.org/abs/2604.06913)|null|
 |**2026-04-08**|**Particle-acceleration mechanisms in multispecies relativistic plasmas**|Claudio Meringolo et.al.|[2604.06749](http://arxiv.org/abs/2604.06749)|null|
-|**2026-04-08**|**TurboAgent: An LLM-Driven Autonomous Multi-Agent Framework for Turbomachinery Aerodynamic Design**|Juan Du et.al.|[2604.06747](http://arxiv.org/abs/2604.06747)|null|
+|**2026-04-09**|**TurboAgent: An LLM-Driven Autonomous Multi-Agent Framework for Turbomachinery Aerodynamic Design**|Juan Du et.al.|[2604.06747](http://arxiv.org/abs/2604.06747)|null|
 |**2026-04-07**|**Multiscale Physics-Informed Neural Network for Complex Fluid Flows with Long-Range Dependencies**|Prashant Kumar et.al.|[2604.05652](http://arxiv.org/abs/2604.05652)|null|
 |**2026-04-07**|**Resource Implications of Different Encodings for Quantum Computational Fluid Dynamics**|Hans A. Kösel et.al.|[2604.05577](http://arxiv.org/abs/2604.05577)|null|
 |**2026-04-07**|**Ultrasound-controlled stream splitting in a microfluidic coflow**|D. Ghosh et.al.|[2604.05419](http://arxiv.org/abs/2604.05419)|null|
@@ -2408,6 +2452,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Bayesian Inference for Estimating Generation Costs in Electricity Markets**|Matthias Pirlet et.al.|[2604.08309](http://arxiv.org/abs/2604.08309)|null|
+|**2026-04-09**|**Discrete Diffusion for Codebook-Based Beam Candidate Generation**|Amirhossein Azarbahram et.al.|[2604.08197](http://arxiv.org/abs/2604.08197)|null|
+|**2026-04-09**|**Bayesian Tendon Breakage Localization under Model Uncertainty Using Distributed Fiber Optic Sensors**|Daniel Andrés Arcones et.al.|[2604.08162](http://arxiv.org/abs/2604.08162)|null|
+|**2026-04-09**|**A Multilevel Monte Carlo Virtual Element Method for Uncertainty Quantification of Elliptic Partial Differential Equations**|Paola F. Antonietti et.al.|[2604.08135](http://arxiv.org/abs/2604.08135)|null|
+|**2026-04-09**|**A unifying view of contrastive learning, importance sampling, and bridge sampling for energy-based models**|Luca Martino et.al.|[2604.08116](http://arxiv.org/abs/2604.08116)|null|
+|**2026-04-09**|**Towards Rapid Constitutive Model Discovery from Multi-Modal Data: Physics Augmented Finite Element Model Updating (paFEMU)**|Jingye Tan et.al.|[2604.07746](http://arxiv.org/abs/2604.07746)|null|
+|**2026-04-09**|**FireSenseNet: A Dual-Branch CNN with Cross-Attentive Feature Interaction for Next-Day Wildfire Spread Prediction**|Jinzhen Han et.al.|[2604.07675](http://arxiv.org/abs/2604.07675)|null|
+|**2026-04-08**|**Limiting Root Distribution of Random Log-concave Polynomials**|Ohad Noy Feldheim et.al.|[2604.07647](http://arxiv.org/abs/2604.07647)|null|
+|**2026-04-08**|**Dual-Loop Control in DCVerse: Advancing Reliable Deployment of AI in Data Centers via Digital Twins**|Qingang Zhang et.al.|[2604.07559](http://arxiv.org/abs/2604.07559)|null|
+|**2026-04-08**|**Langevin-Gradient Rerandomization**|Antônio Carlos Herling Ribeiro Junior et.al.|[2604.07524](http://arxiv.org/abs/2604.07524)|null|
 |**2026-04-08**|**Graph Neural ODE Digital Twins for Control-Oriented Reactor Thermal-Hydraulic Forecasting Under Partial Observability**|Akzhol Almukhametov et.al.|[2604.07292](http://arxiv.org/abs/2604.07292)|null|
 |**2026-04-08**|**Physics-Informed 3D Atomic Reconstruction and Dynamics of Free-Standing Graphene from Single Low-Dose TEM Images**|Xiaojun Zhang et.al.|[2604.07271](http://arxiv.org/abs/2604.07271)|null|
 |**2026-04-08**|**Improving Semantic Uncertainty Quantification in Language Model Question-Answering via Token-Level Temperature Scaling**|Tom A. Lamb et.al.|[2604.07172](http://arxiv.org/abs/2604.07172)|null|
@@ -2884,6 +2938,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Stability of Supported Pd-based Ethanol Oxidation Reaction Electrocatalysts in Alkaline Media**|Tuani C. Gentil et.al.|[2604.07483](http://arxiv.org/abs/2604.07483)|null|
 |**2026-04-08**|**Fe3O4 nano-octahedra and SnO2 nanorods modifying low-Pd amount electrocatalysts for alkaline direct ethanol fuel cells**|Tuani C. Gentil et.al.|[2604.07206](http://arxiv.org/abs/2604.07206)|null|
 |**2026-04-08**|**Photo-Assisted Pd-Nb2O5/Carbon Nanocomposites for Enhanced Ethanol Electro-Oxidation Kinetics and CO Tolerance in Alkaline Media**|João V. T. Neves et.al.|[2604.07203](http://arxiv.org/abs/2604.07203)|null|
 |**2026-04-08**|**Unveiling Mechanisms of SEI Formation and Sodium Loss in Sodium Batteries via Interface Reactor Sampling**|Zhoulin Liu et.al.|[2604.07077](http://arxiv.org/abs/2604.07077)|null|
