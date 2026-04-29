@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.04.28
+## Updated on 2026.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Process Modeling & System Identification
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**A Quantum Spectral Framework for Solving PDEs**|Chih-Kang Huang et.al.|[2604.25825](http://arxiv.org/abs/2604.25825)|null|
+|**2026-04-28**|**AI-Powered Surrogate Modelling for Multiscale Combustion: A Critical Review and Opportunities**|Amirali Shateri et.al.|[2604.25617](http://arxiv.org/abs/2604.25617)|null|
+|**2026-04-28**|**Control-oriented cluster-based reduced-order modelling**|Paolo Olivucci et.al.|[2604.25474](http://arxiv.org/abs/2604.25474)|null|
+|**2026-04-28**|**Secure Conformance Checking using Token-based Replay and Homomorphic Encryption**|Luis-Armando Rodríguez-Flores et.al.|[2604.25190](http://arxiv.org/abs/2604.25190)|null|
+|**2026-04-28**|**A Continuous-Time Ensemble Kalman-Bucy Smoother for Causal Inference and Model Discovery**|Zhang Jiang et.al.|[2604.25157](http://arxiv.org/abs/2604.25157)|null|
 |**2026-04-27**|**Exploiting Differential Flatness for Efficient Learning-based Model Predictive Control of Constrained Multi-Input Control Affine Systems**|Tobias A. Farger et.al.|[2604.24706](http://arxiv.org/abs/2604.24706)|null|
 |**2026-04-27**|**Reduced-Order Data Assimilation for Thermospheric Density Using Physics-informed SINDyc Models**|Sriram Narayanan et.al.|[2604.24646](http://arxiv.org/abs/2604.24646)|null|
 |**2026-04-27**|**Computational Design and Experimental Validation of Photoactive PARP1 Inhibitors**|Simon Axelrod et.al.|[2604.24634](http://arxiv.org/abs/2604.24634)|null|
@@ -632,6 +637,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**RESTestBench: A Benchmark for Evaluating the Effectiveness of LLM-Generated REST API Test Cases from NL Requirements**|Leon Kogler et.al.|[2604.25862](http://arxiv.org/abs/2604.25862)|null|
+|**2026-04-28**|**Threat-Oriented Digital Twinning for Security Evaluation of Autonomous Platforms**|Thomas J. Neubert et.al.|[2604.25757](http://arxiv.org/abs/2604.25757)|null|
+|**2026-04-28**|**Robustness Evaluation of a Foundation Segmentation Model Under Simulated Domain Shifts in Abdominal CT: Implications for Health Digital Twin Deployment**|Sanghati Basu et.al.|[2604.25685](http://arxiv.org/abs/2604.25685)|null|
+|**2026-04-28**|**Impact of segmented deformable mirrors on high-contrast testbeds for exoplanet imaging with future large space telescopes: contrast stability assessment on the HiCAT bench**|Benjamin Buralli et.al.|[2604.25675](http://arxiv.org/abs/2604.25675)|null|
+|**2026-04-28**|**Evaluating local climate in global storm-resolving models with the Köppen-Geiger classification**|Chiel C. van Heerwaarden et.al.|[2604.25447](http://arxiv.org/abs/2604.25447)|null|
+|**2026-04-28**|**Commit-Aware Learning-Based Test Case Prioritization for Continuous Integration**|Lorenzo Abbondante et.al.|[2604.25363](http://arxiv.org/abs/2604.25363)|null|
+|**2026-04-27**|**Digital Twins in Coronary Artery Disease: A Mathematical Roadmap**|Alessandro Veneziani et.al.|[2604.24910](http://arxiv.org/abs/2604.24910)|null|
+|**2026-04-27**|**Monitoring exposure-length variations in submarine power cables using distributed fiber-optic sensing**|Sakiko Mishima et.al.|[2604.24880](http://arxiv.org/abs/2604.24880)|null|
+|**2026-04-27**|**CONCERTO: Characterization of analog readout electronics**|Mounir Abdkrimi et.al.|[2604.24815](http://arxiv.org/abs/2604.24815)|null|
 |**2026-04-27**|**GAMMAF: A Common Framework for Graph-Based Anomaly Monitoring Benchmarking in LLM Multi-Agent Systems**|Pablo Mateo-Torrejón et.al.|[2604.24477](http://arxiv.org/abs/2604.24477)|null|
 |**2026-04-27**|**System-aware contextual digital twin for ICS anomaly diagnosis**|Eungyu Woo et.al.|[2604.24051](http://arxiv.org/abs/2604.24051)|null|
 |**2026-04-27**|**End-to-End Learning for Partially-Observed Time Series with PyPOTS**|Wenjie Du et.al.|[2604.24041](http://arxiv.org/abs/2604.24041)|null|
@@ -1283,6 +1297,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**Variational Neural Belief Parameterizations for Robust Dexterous Grasping under Multimodal Uncertainty**|Clinton Enwerem et.al.|[2604.25897](http://arxiv.org/abs/2604.25897)|null|
+|**2026-04-28**|**No Pedestrian Left Behind: Real-Time Detection and Tracking of Vulnerable Road Users for Adaptive Traffic Signal Control**|Anas Gamal Aly et.al.|[2604.25887](http://arxiv.org/abs/2604.25887)|null|
+|**2026-04-28**|**Slice Agent: Identifying and Isolating Slices in Shared Open Radio Unit**|Felipe Arnholda et.al.|[2604.25857](http://arxiv.org/abs/2604.25857)|null|
+|**2026-04-28**|**Finite-time transitions in optimal control and non-equilibrium relaxation**|Jan Meibohm et.al.|[2604.25798](http://arxiv.org/abs/2604.25798)|null|
+|**2026-04-28**|**Pulse Quality Optimisation in Quantum Optimal Control**|Dylan Lewis et.al.|[2604.25768](http://arxiv.org/abs/2604.25768)|null|
+|**2026-04-28**|**Sensitivity-Based Tube NMPC for Cooperative Aerial Structures Under Parametric Uncertainty**|Giuseppe Silano et.al.|[2604.25766](http://arxiv.org/abs/2604.25766)|null|
+|**2026-04-28**|**Testing template-fitting models for the multipoles of the two-point clustering of galaxy clusters**|Euclid Collaboration et.al.|[2604.25762](http://arxiv.org/abs/2604.25762)|null|
+|**2026-04-28**|**Beyond Single Trajectories: Optimal Control and Jordan-Lie Algebra in Hybrid Quantum Walks for Combinatorial Optimization**|Tianen Chen et.al.|[2604.25760](http://arxiv.org/abs/2604.25760)|null|
+|**2026-04-28**|**Convergence analysis of a full discretization of operator-valued differential Riccati equations**|Eskil Hansen et.al.|[2604.25411](http://arxiv.org/abs/2604.25411)|null|
+|**2026-04-28**|**Limitations of LTI Koopman Modeling for Nonlinear Control Systems**|Johannes Heeg et.al.|[2604.25290](http://arxiv.org/abs/2604.25290)|null|
 |**2026-04-27**|**Floquet engineering of tight-binding Hamiltonians in momentum space lattices**|D. Ronco et.al.|[2604.24722](http://arxiv.org/abs/2604.24722)|null|
 |**2026-04-27**|**Exploiting Differential Flatness for Efficient Learning-based Model Predictive Control of Constrained Multi-Input Control Affine Systems**|Tobias A. Farger et.al.|[2604.24706](http://arxiv.org/abs/2604.24706)|null|
 |**2026-04-27**|**Dual Control of Linear Systems from Bilinear Observations with Belief Space Model Predictive Control**|Daniel Cao et.al.|[2604.24663](http://arxiv.org/abs/2604.24663)|null|
@@ -1924,6 +1948,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**Conditional misalignment: common interventions can hide emergent misalignment behind contextual triggers**|Jan Dubiński et.al.|[2604.25891](http://arxiv.org/abs/2604.25891)|null|
+|**2026-04-28**|**Privileged Foresight Distillation: Zero-Cost Future Correction for World Action Models**|Pengcheng Fang et.al.|[2604.25859](http://arxiv.org/abs/2604.25859)|null|
+|**2026-04-28**|**Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses**|Jiahang Lin et.al.|[2604.25850](http://arxiv.org/abs/2604.25850)|null|
+|**2026-04-28**|**Break the Inaccessible Boundary: Distilling Post-Conversion Content for User Retention Modeling**|Tianbao Ma et.al.|[2604.25839](http://arxiv.org/abs/2604.25839)|null|
+|**2026-04-28**|**Mutual Forcing: Dual-Mode Self-Evolution for Fast Autoregressive Audio-Video Character Generation**|Yupeng Zhou et.al.|[2604.25819](http://arxiv.org/abs/2604.25819)|null|
+|**2026-04-28**|**Improving Diversity in Black-box Few-shot Knowledge Distillation**|Tri-Nhan Vo et.al.|[2604.25795](http://arxiv.org/abs/2604.25795)|null|
+|**2026-04-28**|**Diverse Image Priors for Black-box Data-free Knowledge Distillation**|Tri-Nhan Vo et.al.|[2604.25794](http://arxiv.org/abs/2604.25794)|null|
+|**2026-04-28**|**Sustained Gradient Alignment Mediates Subliminal Learning in a Multi-Step Setting: Evidence from MNIST Auxiliary Logit Distillation Experiment**|Chayanon Kitkana et.al.|[2604.25779](http://arxiv.org/abs/2604.25779)|null|
+|**2026-04-28**|**Step-Audio-R1.5 Technical Report**|Yuxin Zhang et.al.|[2604.25719](http://arxiv.org/abs/2604.25719)|null|
+|**2026-04-28**|**Bug-Report-Driven Fault Localization: Industrial Benchmarking and Lesson Learned at ABB Robotics**|Pernilla Hall et.al.|[2604.25700](http://arxiv.org/abs/2604.25700)|null|
 |**2026-04-27**|**Long-Context Aware Upcycling: A New Frontier for Hybrid LLM Scaling**|Parsa Ashrafi Fashi et.al.|[2604.24715](http://arxiv.org/abs/2604.24715)|null|
 |**2026-04-27**|**Benchmarking Pathology Foundation Models for Breast Cancer Survival Prediction**|Fredrik K. Gustafsson et.al.|[2604.24679](http://arxiv.org/abs/2604.24679)|null|
 |**2026-04-27**|**Less Is More: Engineering Challenges of On-Device Small Language Model Integration in a Mobile Application**|William Oliveira et.al.|[2604.24636](http://arxiv.org/abs/2604.24636)|null|
@@ -2529,6 +2563,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**Topochemical Fluorination of La $_2$NiO$_{4+δ}$ Single Crystals**|Hasan Yilmaz et.al.|[2604.25575](http://arxiv.org/abs/2604.25575)|null|
+|**2026-04-28**|**Benchmarking bandgap prediction in semiconductors under experimental and realistic evaluation settings**|Haolin Wang et.al.|[2604.25568](http://arxiv.org/abs/2604.25568)|null|
+|**2026-04-28**|**Thermodynamic surface reconstruction governs catalytic behavior in high-entropy alloys**|Taegyeong Kim et.al.|[2604.25454](http://arxiv.org/abs/2604.25454)|null|
 |**2026-04-27**|**Mass spectra of charged mesons and the quenching of vector meson condensation via exact phase-space diagonalization**|Jingyi Chao et.al.|[2604.24595](http://arxiv.org/abs/2604.24595)|null|
 |**2026-04-27**|**Catalytic Enhancement of Coherence Fraction in Noisy Quantum Channels and Characterization of Strictly Incoherent Operations**|Priyabrata Char et.al.|[2604.24291](http://arxiv.org/abs/2604.24291)|null|
 |**2026-04-26**|**Agentic Fusion of Large Atomic and Language Models to Accelerate Materials Discovery**|Mingze Li et.al.|[2604.23758](http://arxiv.org/abs/2604.23758)|null|
@@ -2945,6 +2982,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**Teacher Forcing as Generalized Bayes: Optimization Geometry Mismatch in Switching Surrogates for Chaotic Dynamics**|Andre Herz et.al.|[2604.25904](http://arxiv.org/abs/2604.25904)|null|
+|**2026-04-28**|**Predicting challenging phase transitions with Bayesian active learning**|Lorenzo Bastonero et.al.|[2604.25756](http://arxiv.org/abs/2604.25756)|null|
+|**2026-04-28**|**Bayesian Rate Inference for Sequence Motif Dynamics in Systems of Reactive Nucleic Acids**|Johannes Harth-Kitzerow et.al.|[2604.25701](http://arxiv.org/abs/2604.25701)|null|
+|**2026-04-28**|**Asteroseismic analysis of RY Leporis: the post-main sequence HADS in a binary system**|Wojciech Niewiadomski et.al.|[2604.25594](http://arxiv.org/abs/2604.25594)|null|
+|**2026-04-28**|**Automated Adversarial Collaboration for Advancing Theory Building in the Cognitive Sciences**|Suyog Chandramouli et.al.|[2604.25521](http://arxiv.org/abs/2604.25521)|null|
+|**2026-04-28**|**Adaptable phase retrieval for coherent transition radiation spectroscopy based on differentiable physics information**|Ritz Ann Aguilar et.al.|[2604.25489](http://arxiv.org/abs/2604.25489)|null|
+|**2026-04-28**|**Biased Dreams: Limitations to Epistemic Uncertainty Quantification in Latent Space Models**|Julia Berger et.al.|[2604.25416](http://arxiv.org/abs/2604.25416)|null|
+|**2026-04-28**|**Scaling Probabilistic Transformer via Efficient Cross-Scale Hyperparameter Transfer**|Penghao Kuang et.al.|[2604.25409](http://arxiv.org/abs/2604.25409)|null|
+|**2026-04-28**|**Fixed-parameter tractable inference for discrete probabilistic programs, via string diagram algebraisation**|Benedikt Peterseim et.al.|[2604.25321](http://arxiv.org/abs/2604.25321)|null|
+|**2026-04-28**|**Bayesian integration G-formula for platform SMART designs allowing for adding new treatments**|Xinru Wang et.al.|[2604.25252](http://arxiv.org/abs/2604.25252)|null|
 |**2026-04-27**|**Learning to Think from Multiple Thinkers**|Nirmit Joshi et.al.|[2604.24737](http://arxiv.org/abs/2604.24737)|null|
 |**2026-04-27**|**Quantifying the effect of phenotype on clustering behaviour in melanoma: from monoculture to co-culture**|Nathan Schofield et.al.|[2604.24673](http://arxiv.org/abs/2604.24673)|null|
 |**2026-04-27**|**Reduced-Order Data Assimilation for Thermospheric Density Using Physics-informed SINDyc Models**|Sriram Narayanan et.al.|[2604.24646](http://arxiv.org/abs/2604.24646)|null|
@@ -3536,6 +3583,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**Economical and ecological impact of sector coupling applied to computing clusters**|P. Bechtle et.al.|[2604.25540](http://arxiv.org/abs/2604.25540)|null|
+|**2026-04-27**|**Learning with Embedded Linear Equality Constraints via Variational Bayesian Inference**|Matthew Marsh et.al.|[2604.24911](http://arxiv.org/abs/2604.24911)|null|
+|**2026-04-24**|**Liquid Neural Network Models for Natural Gas Spot Price Time-Series Forecasting**|Yiqian Liu et.al.|[2604.24788](http://arxiv.org/abs/2604.24788)|null|
 |**2026-04-27**|**Energy-Arena: A Dynamic Benchmark for Operational Energy Forecasting**|Max Kleinebrahm et.al.|[2604.24705](http://arxiv.org/abs/2604.24705)|null|
 |**2026-04-27**|**X-NegoBox: An Explainable Privacy-Budget Negotiation Framework for Secure Peer-to-Peer Energy Data Exchange**|Poushali Sengupta et.al.|[2604.24326](http://arxiv.org/abs/2604.24326)|null|
 |**2026-04-27**|**DecompKAN: Decomposed Patch-KAN for Long-Term Time Series Forecasting**|Naveen Mysore et.al.|[2604.23968](http://arxiv.org/abs/2604.23968)|null|
